@@ -1,0 +1,512 @@
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)
+Array
+(
+    [result] => 1
+)

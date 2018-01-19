@@ -1,0 +1,1668 @@
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 58
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 59
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 60
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 61
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 62
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 63
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 64
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 65
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 66
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 67
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 68
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 69
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 70
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 71
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 72
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 73
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 74
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 75
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 76
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 77
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 78
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 79
+    [activity_messages_count] => 8
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 80
+    [activity_messages_count] => 8
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 81
+    [activity_messages_count] => 8
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 82
+    [activity_messages_count] => 8
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 83
+    [activity_messages_count] => 8
+)
+Array
+(
+    [id] => 226
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 2
+    [incoming_messages_count] => 84
+    [activity_messages_count] => 8
+)
+Array
+(
+    [id] => 98
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 1
+    [activity_messages_count] => 1
+)
+Array
+(
+    [id] => 100
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 1
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 102
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 1
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 102
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 3
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 102
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 5
+    [activity_messages_count] => 1
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 1
+    [activity_messages_count] => 1
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 2
+    [activity_messages_count] => 1
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 3
+    [activity_messages_count] => 1
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 3
+    [activity_messages_count] => 1
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 3
+    [activity_messages_count] => 1
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 6
+    [activity_messages_count] => 1
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 7
+    [activity_messages_count] => 1
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 8
+    [activity_messages_count] => 2
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 9
+    [activity_messages_count] => 2
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 10
+    [activity_messages_count] => 2
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 11
+    [activity_messages_count] => 2
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 12
+    [activity_messages_count] => 2
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 13
+    [activity_messages_count] => 2
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 14
+    [activity_messages_count] => 2
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 15
+    [activity_messages_count] => 2
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 16
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 17
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 17
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 17
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 17
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 17
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 22
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 23
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 24
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 24
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 26
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 27
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 28
+    [activity_messages_count] => 4
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 29
+    [activity_messages_count] => 4
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 30
+    [activity_messages_count] => 4
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 31
+    [activity_messages_count] => 5
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 32
+    [activity_messages_count] => 5
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 33
+    [activity_messages_count] => 6
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 34
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 106
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 34
+    [activity_messages_count] => 8
+)
+Array
+(
+    [id] => 108
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 108
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 1
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 108
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 2
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 108
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 3
+    [activity_messages_count] => 1
+)
+Array
+(
+    [id] => 108
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 3
+    [activity_messages_count] => 2
+)
+Array
+(
+    [id] => 108
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 4
+    [activity_messages_count] => 3
+)
+Array
+(
+    [id] => 108
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 4
+    [activity_messages_count] => 4
+)
+Array
+(
+    [id] => 108
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 4
+    [activity_messages_count] => 5
+)
+Array
+(
+    [id] => 108
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 4
+    [activity_messages_count] => 6
+)
+Array
+(
+    [id] => 108
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 9
+    [activity_messages_count] => 7
+)
+Array
+(
+    [id] => 110
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 110
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 1
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 110
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 2
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 110
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 3
+    [activity_messages_count] => 1
+)
+Array
+(
+    [id] => 110
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 4
+    [activity_messages_count] => 2
+)
+Array
+(
+    [id] => 112
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 112
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 112
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 112
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 112
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 112
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 112
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 112
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 112
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 112
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 112
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+    [dialogs_count] => 1
+    [incoming_messages_count] => 0
+    [activity_messages_count] => 0
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)
+Array
+(
+    [id] => 230
+    [portal] => auspex.bitrix24.ua
+    [name] => Auspex chat-bot
+    [color] => GREEN
+    [email] => info@new.auspex.com.ua
+    [b_day] => 2015-01-01
+    [www] => http://new.auspex.com.ua
+    [image] => 
+)

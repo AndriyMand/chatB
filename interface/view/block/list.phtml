@@ -1,0 +1,91 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="../../fileadmin/css/style.css">
+</head>
+<body>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="../../fileadmin/js/tools.js"></script>
+
+	<ul class="menu cf">
+		<li>
+			<a href="../../index.phtml">Main</a>
+		</li>
+		<li>
+			<a href="">Block</a>
+			<ul class="submenu">
+				<li><a href="list.phtml">List</a></li>
+				<li><a href="detail.phtml" class="li_detail">Detail</a></li>
+				<li><a href="detail.phtml" id="create_block"">Create</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="">Tags</a>
+			<ul class="submenu">
+				<li><a href="../tags/list.phtml">List</a></li>
+				<li><a href="../tags/edit.phtml">Edit</a></li>
+			</ul>			
+		</li>
+		<li>
+			<a href="../menu/menu.phtml">Menu</a>			
+		</li>
+		<!--
+		<li>
+			<a href="">Keyboard</a>
+			<ul class="submenu">
+				<li><a href="../keyboard/list.phtml">List</a></li>
+				<li><a href="../keyboard/edit.phtml">Edit</a></li>
+			</ul>
+		</li>
+		-->
+	</ul>
+
+<?php
+	include '../../db/connection.php';
+    include '../../db/query.php';
+?>
+<div class="fit_center">
+
+<div id='blocks_headers'>
+<?php
+/*
+	session_start();
+	$host = $_SESSION['DOMAIN'];
+	$portalId = $conn->query(selectRow('portals', 'id', "host_name='" . $host . "'"))->fetch_assoc()['id']; 
+*/
+
+	session_start();
+	if (isset($_REQUEST['DOMAIN'])) {
+		$_SESSION['DOMAIN'] = $_REQUEST['DOMAIN'];
+	} else {
+		$_SESSION['DOMAIN'] = 'auspex.bitrix24.ua';
+	}
+
+	$domain = $_SESSION['DOMAIN'];
+
+	$default = [];
+    $result  = $conn->query(selectAll('blocks', '*', "portal='{$domain}'"));
+    if ($result->num_rows > 0) { 
+        //$count = 0; ?>
+        <div class="tr_tags">
+
+			<div class="styled_p">
+                <?php while($row = $result->fetch_assoc()) { ?>
+						
+						<p id="<?php echo $row['id']; ?>"><?php echo $row['header']; ?></p>
+						
+						<?php
+						if (empty($row['type'])) {
+							?> <br> <?php
+							} else {
+								?> <span>(Default - <?php echo $row['type']; ?>)</span><br> <?php
+							}
+						} ?>
+			</div>
+				
+        </div>
+<?php } ?>
+</div>
+</div>
+</body>
+</html>

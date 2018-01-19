@@ -1,0 +1,40 @@
+#menu {
+	max-width: 400px;
+	margin: 0 auto;
+	text-align: left
+}
+#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	position: relative
+}
+#menu li a {
+	height: 24px;
+	text-decoration: none;
+	font: 10px;
+}
+#menu li a:link, #menu li a:visited {
+	color: #007A33;
+	display: block;
+	background: url(menu.jpg);
+	padding: 10px 0 0 15px;
+}
+#menu li a:hover {
+	color: #0D1FD2;
+	padding: 8px 0 0 10px;
+}
+#menu li span {
+	position: absolute;
+	left: 50%;
+	margin-top: -32px;
+	width: 100%;
+	max-width: 12em;
+	display: none;
+}
+#menu li:hover span {
+	display: block;
+}
+#menu li span a {
+	display: inline;
+}

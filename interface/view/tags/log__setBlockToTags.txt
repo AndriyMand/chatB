@@ -1,0 +1,36 @@
+test
+Array
+Array
+testArray
+(
+    [0] => 6
+)
+Array
+(
+    [0] => 5
+)
+16Array
+(
+    [0] => 6
+)
+Array
+(
+    [0] => 5
+)
+17Array
+(
+    [0] => 6
+)
+Array
+(
+    [0] => 5
+)
+16Array
+(
+    [0] => 6
+)
+Array
+(
+    [0] => 6
+    [1] => 
+)

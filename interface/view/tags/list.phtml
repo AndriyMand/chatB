@@ -1,0 +1,120 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="../../fileadmin/css/style.css">
+</head>
+<body>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="../../fileadmin/js/tools.js"></script>
+
+	<ul class="menu cf">
+		<li>
+			<a href="../../index.phtml">Main</a>
+		</li>
+		<li>
+			<a href="">Block</a>
+			<ul class="submenu">
+				<li><a href="../block/list.phtml">List</a></li>
+				<li><a href="../block/detail.phtml" class="li_detail">Detail</a></li>
+				<li><a href="../block/detail.phtml" id="create_block">Create</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="">Tags</a>
+			<ul class="submenu">
+				<li><a href="list.phtml">List</a></li>
+				<li><a href="edit.phtml">Edit</a></li>
+			</ul>			
+		</li>
+		<li>
+			<a href="../menu/menu.phtml">Menu</a>			
+		</li>
+		<!--
+		<li>
+			<a href="">Keyboard</a>
+			<ul class="submenu">
+				<li><a href="../keyboard/list.phtml">List</a></li>
+				<li><a href="../keyboard/edit.phtml">Edit</a></li>
+			</ul>
+		</li>
+		-->
+	</ul>
+
+<?php
+	include '../../db/connection.php';
+    include '../../db/query.php';
+?>
+<div class="fit_center">
+<div id='tags_set_table'>
+<?php
+	session_start();
+	//$host = empty($_SERVER['HTTP_ORIGIN']) ? $_SERVER['HTTP_X_FORWARDED_PROTO'] . "://" . $_SERVER['HTTP_HOST'] : $_SERVER['HTTP_ORIGIN'];
+	$host = $_SESSION['DOMAIN'];
+	$portalId = $conn->query(selectRow('portals', 'id', "host_name='" . $host . "'"))->fetch_assoc()['id']; 
+	
+	if ($portalId) {
+		$result = $conn->query(selectAll('tags', '*', 'portal_id=' . $portalId));
+	}
+
+    if ($result->num_rows > 0) { ?>
+        <table> 
+			<tr class="colored">
+				<td>
+				</td>
+				<td>
+					<p class="center">Tags</p>
+				</td>
+				<td>
+					<p class="center">Related blocks</p>
+				</td>
+			</tr>
+            <?php while($row = $result->fetch_assoc()) { 
+						$related = [];
+						$botmessage = $conn->query(selectAll('blocks', '*', 'portal_id=' . $portalId));
+						if ($botmessage->num_rows > 0) {
+							while($ress = $botmessage->fetch_assoc()) { 
+								if (!empty($ress['tags_id'])) {
+									$tags = explode(",", $ress['tags_id']);
+									if (in_array($row['id'], $tags)) {
+									   $related[$ress['id']] = $ress['header']; 
+									}
+								}
+							} 
+						} 
+						
+						if ($related) {
+			?>
+                        <tr class="tr_tags">
+                            <td>
+								<div class="arrow-right"></div>
+                            </td>
+                            <td>
+                                <div class="styled_p">
+                                    <?php if (!empty($row['value'])) {
+                                        $tags = explode(",", $row['value']);
+                                        foreach ($tags as $tag) { 
+                                            if ($tag) { ?>
+                                        <p>
+                                           <?php echo $tag; ?>
+                                        </p>
+                                            <?php } }
+                                    } ?>    
+                                </div>
+							</td>
+                            <td>
+								<div class="styled_p">
+									<?php
+										foreach ($related as $id => $name) { ?>
+											<p class='<?php  echo $id; ?>'> <?php  echo $name; ?> </p>
+								<?php	}  ?>
+								</div>
+                            </td>
+                        </tr> 
+                <?php } 
+			}?>
+        </table>
+<?php } ?>
+</div>
+</div>
+</body>
+</html>

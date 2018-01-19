@@ -1,0 +1,1412 @@
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 57
+    [last_activity] => 2017-08-19 15:41:16
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 58
+    [last_activity] => 2017-08-19 15:45:56
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 59
+    [last_activity] => 2017-08-19 15:50:07
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 60
+    [last_activity] => 2017-08-19 15:50:18
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 61
+    [last_activity] => 2017-08-19 15:50:48
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 62
+    [last_activity] => 2017-08-19 15:51:47
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 63
+    [last_activity] => 2017-08-19 15:56:43
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 64
+    [last_activity] => 2017-08-19 15:57:12
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 65
+    [last_activity] => 2017-08-19 15:59:21
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 66
+    [last_activity] => 2017-08-19 15:59:52
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 67
+    [last_activity] => 2017-08-19 16:00:04
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 68
+    [last_activity] => 2017-08-19 16:01:18
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 69
+    [last_activity] => 2017-08-19 16:02:52
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 70
+    [last_activity] => 2017-08-19 16:04:15
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 71
+    [last_activity] => 2017-08-19 16:05:30
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 72
+    [last_activity] => 2017-08-19 16:07:46
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 73
+    [last_activity] => 2017-08-19 16:09:15
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 74
+    [last_activity] => 2017-08-19 16:11:43
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 75
+    [last_activity] => 2017-08-19 16:12:13
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 76
+    [last_activity] => 2017-08-19 16:16:56
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 77
+    [last_activity] => 2017-08-19 16:17:33
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 78
+    [last_activity] => 2017-08-19 16:23:44
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 79
+    [last_activity] => 2017-08-22 10:20:22
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 80
+    [last_activity] => 2017-08-22 10:22:27
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 81
+    [last_activity] => 2017-08-22 10:23:37
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 82
+    [last_activity] => 2017-08-22 10:25:28
+)
+Array
+(
+    [id] => 4
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 83
+    [last_activity] => 2017-08-22 10:25:33
+)
+Array
+(
+    [id] => 7
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 14:11:15
+    [last_activity] => 2017-08-22 14:11:15
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 7
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 2
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 14:11:15
+    [last_activity] => 2017-08-22 14:22:22
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 8
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 14:31:25
+    [last_activity] => 2017-08-22 14:31:25
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:33:04
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 2
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:34:33
+    [min_time] => 89
+    [avg_time] => 45
+    [max_time] => 89
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 3
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:35:21
+    [min_time] => 89
+    [avg_time] => 45
+    [max_time] => 89
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 4
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:35:26
+    [min_time] => 89
+    [avg_time] => 45
+    [max_time] => 89
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 5
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:35:27
+    [min_time] => 89
+    [avg_time] => 45
+    [max_time] => 89
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 6
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:35:28
+    [min_time] => 89
+    [avg_time] => 45
+    [max_time] => 89
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 7
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:35:34
+    [min_time] => 89
+    [avg_time] => 45
+    [max_time] => 89
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 8
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:35:41
+    [min_time] => 89
+    [avg_time] => 45
+    [max_time] => 89
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 9
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:38:47
+    [min_time] => 89
+    [avg_time] => 144
+    [max_time] => 343
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 10
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:39:18
+    [min_time] => 89
+    [avg_time] => 144
+    [max_time] => 343
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 11
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:39:45
+    [min_time] => 89
+    [avg_time] => 144
+    [max_time] => 343
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 12
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:40:27
+    [min_time] => 89
+    [avg_time] => 144
+    [max_time] => 343
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 13
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:41:11
+    [min_time] => 89
+    [avg_time] => 144
+    [max_time] => 343
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 14
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:41:59
+    [min_time] => 89
+    [avg_time] => 144
+    [max_time] => 343
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 15
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:42:50
+    [min_time] => 89
+    [avg_time] => 144
+    [max_time] => 343
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 16
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 14:33:04
+    [last_activity] => 2017-08-22 14:43:16
+    [min_time] => 89
+    [avg_time] => 144
+    [max_time] => 343
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 17
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:47:22
+    [last_activity] => 2017-08-22 14:47:22
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 18
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:47:43
+    [last_activity] => 2017-08-22 14:47:43
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 19
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:47:44
+    [last_activity] => 2017-08-22 14:47:44
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 20
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:47:44
+    [last_activity] => 2017-08-22 14:47:44
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 21
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:47:45
+    [last_activity] => 2017-08-22 14:47:45
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 22
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:47:45
+    [last_activity] => 2017-08-22 14:47:45
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 23
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:47:56
+    [last_activity] => 2017-08-22 14:47:56
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 24
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:48:12
+    [last_activity] => 2017-08-22 14:48:12
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 25
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:48:14
+    [last_activity] => 2017-08-22 14:48:14
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 26
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:48:15
+    [last_activity] => 2017-08-22 14:48:15
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 27
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:48:17
+    [last_activity] => 2017-08-22 14:48:17
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 28
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:48:19
+    [last_activity] => 2017-08-22 14:48:19
+    [min_time] => 89
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 29
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:48:19
+    [last_activity] => 2017-08-22 14:49:52
+    [min_time] => 0
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 30
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:48:19
+    [last_activity] => 2017-08-22 14:49:55
+    [min_time] => 0
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 31
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 14:48:19
+    [last_activity] => 2017-08-22 14:50:00
+    [min_time] => 0
+    [avg_time] => 261
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 32
+    [dialog_count] => 5
+    [start_dialog] => 2017-08-22 14:51:27
+    [last_activity] => 2017-08-22 14:51:27
+    [min_time] => 0
+    [avg_time] => 229
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 33
+    [dialog_count] => 5
+    [start_dialog] => 2017-08-22 14:51:27
+    [last_activity] => 2017-08-22 14:51:33
+    [min_time] => 0
+    [avg_time] => 229
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 34
+    [dialog_count] => 6
+    [start_dialog] => 2017-08-22 14:52:49
+    [last_activity] => 2017-08-22 14:52:49
+    [min_time] => 25
+    [avg_time] => 192
+    [max_time] => 612
+)
+Array
+(
+    [id] => 9
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 34
+    [dialog_count] => 7
+    [start_dialog] => 2017-08-22 15:02:11
+    [last_activity] => 2017-08-22 14:52:49
+    [min_time] => 0
+    [avg_time] => 165
+    [max_time] => 612
+)
+Array
+(
+    [id] => 10
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 15:04:19
+    [last_activity] => 2017-08-22 15:04:19
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 10
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 15:04:19
+    [last_activity] => 2017-08-22 15:04:19
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 10
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 15:04:19
+    [last_activity] => 2017-08-22 15:04:19
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 10
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 15:04:57
+    [last_activity] => 2017-08-22 15:04:19
+    [min_time] => 0
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 10
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 15:04:58
+    [last_activity] => 2017-08-22 15:04:19
+    [min_time] => -38
+    [avg_time] => -13
+    [max_time] => 0
+)
+Array
+(
+    [id] => 10
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-22 15:04:59
+    [last_activity] => 2017-08-22 15:04:19
+    [min_time] => -39
+    [avg_time] => -20
+    [max_time] => 0
+)
+Array
+(
+    [id] => 10
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 5
+    [start_dialog] => 2017-08-22 15:04:59
+    [last_activity] => 2017-08-22 15:04:19
+    [min_time] => -40
+    [avg_time] => -24
+    [max_time] => 0
+)
+Array
+(
+    [id] => 10
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 6
+    [start_dialog] => 2017-08-22 15:04:59
+    [last_activity] => 2017-08-22 15:04:19
+    [min_time] => -40
+    [avg_time] => -27
+    [max_time] => 0
+)
+Array
+(
+    [id] => 10
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 7
+    [start_dialog] => 2017-08-22 15:04:59
+    [last_activity] => 2017-08-22 15:04:19
+    [min_time] => -40
+    [avg_time] => -29
+    [max_time] => 0
+)
+Array
+(
+    [id] => 11
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 15:08:03
+    [last_activity] => 2017-08-22 15:08:03
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 11
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 15:08:03
+    [last_activity] => 2017-08-22 15:08:03
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 11
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 15:08:03
+    [last_activity] => 2017-08-22 15:08:03
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 11
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 15:08:37
+    [last_activity] => 2017-08-22 15:08:03
+    [min_time] => 0
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 12
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 1
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 15:24:22
+    [last_activity] => 2017-08-22 15:24:22
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 12
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 2
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 15:24:22
+    [last_activity] => 2017-08-22 15:24:38
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 12
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 3
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 15:24:22
+    [last_activity] => 2017-08-22 15:24:42
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 12
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 4
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 15:25:24
+    [last_activity] => 2017-08-22 15:25:24
+    [min_time] => 23
+    [avg_time] => 12
+    [max_time] => 23
+)
+Array
+(
+    [id] => 12
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 5
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 15:25:24
+    [last_activity] => 2017-08-22 15:25:44
+    [min_time] => 23
+    [avg_time] => 12
+    [max_time] => 23
+)
+Array
+(
+    [id] => 12
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 6
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 15:25:24
+    [last_activity] => 2017-08-22 15:25:51
+    [min_time] => 23
+    [avg_time] => 12
+    [max_time] => 23
+)
+Array
+(
+    [id] => 12
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 7
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 15:25:24
+    [last_activity] => 2017-08-22 15:25:59
+    [min_time] => 23
+    [avg_time] => 12
+    [max_time] => 23
+)
+Array
+(
+    [id] => 12
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 8
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 15:25:24
+    [last_activity] => 2017-08-22 15:26:09
+    [min_time] => 23
+    [avg_time] => 12
+    [max_time] => 23
+)
+Array
+(
+    [id] => 12
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 9
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 15:26:49
+    [last_activity] => 2017-08-22 15:26:49
+    [min_time] => 23
+    [avg_time] => 24
+    [max_time] => 48
+)
+Array
+(
+    [id] => 12
+    [portal] => b24-n58fe2236706cc.bitrix24.ua
+    [user_id] => 1
+    [send_count] => 10
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 15:26:49
+    [last_activity] => 2017-08-22 15:26:57
+    [min_time] => 23
+    [avg_time] => 24
+    [max_time] => 48
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 1
+    [dialog_count] => 1
+    [start_dialog] => 2017-08-22 16:20:58
+    [last_activity] => 2017-08-22 16:20:58
+    [min_time] => 99999999
+    [avg_time] => 0
+    [max_time] => 0
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 2
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 16:21:50
+    [last_activity] => 2017-08-22 16:21:50
+    [min_time] => 3
+    [avg_time] => 2
+    [max_time] => 3
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 3
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 16:21:50
+    [last_activity] => 2017-08-22 16:21:54
+    [min_time] => 3
+    [avg_time] => 2
+    [max_time] => 3
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 4
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 16:21:50
+    [last_activity] => 2017-08-22 16:22:01
+    [min_time] => 3
+    [avg_time] => 2
+    [max_time] => 3
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 4
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 16:21:50
+    [last_activity] => 2017-08-22 16:22:01
+    [min_time] => 3
+    [avg_time] => 2
+    [max_time] => 3
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 4
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 16:21:50
+    [last_activity] => 2017-08-22 16:22:01
+    [min_time] => 3
+    [avg_time] => 2
+    [max_time] => 3
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 4
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 16:21:50
+    [last_activity] => 2017-08-22 16:22:01
+    [min_time] => 3
+    [avg_time] => 2
+    [max_time] => 3
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 5
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 16:21:50
+    [last_activity] => 2017-08-22 16:22:06
+    [min_time] => 3
+    [avg_time] => 2
+    [max_time] => 3
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 7
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 16:21:50
+    [last_activity] => 2017-08-22 16:22:07
+    [min_time] => 3
+    [avg_time] => 2
+    [max_time] => 3
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 10
+    [dialog_count] => 2
+    [start_dialog] => 2017-08-22 16:21:50
+    [last_activity] => 2017-08-22 16:22:08
+    [min_time] => 3
+    [avg_time] => 2
+    [max_time] => 3
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 11
+    [dialog_count] => 3
+    [start_dialog] => 2017-08-22 16:23:03
+    [last_activity] => 2017-08-22 16:23:03
+    [min_time] => 3
+    [avg_time] => 8
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 12
+    [dialog_count] => 4
+    [start_dialog] => 2017-08-23 10:45:56
+    [last_activity] => 2017-08-23 10:45:56
+    [min_time] => 3
+    [avg_time] => 7
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 13
+    [dialog_count] => 5
+    [start_dialog] => 2017-08-23 15:39:02
+    [last_activity] => 2017-08-23 15:39:02
+    [min_time] => 3
+    [avg_time] => 7
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 14
+    [dialog_count] => 5
+    [start_dialog] => 2017-08-23 15:39:02
+    [last_activity] => 2017-08-23 15:39:10
+    [min_time] => 3
+    [avg_time] => 7
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 15
+    [dialog_count] => 5
+    [start_dialog] => 2017-08-23 15:39:02
+    [last_activity] => 2017-08-23 15:39:15
+    [min_time] => 3
+    [avg_time] => 7
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 15
+    [dialog_count] => 5
+    [start_dialog] => 2017-08-23 15:39:02
+    [last_activity] => 2017-08-23 15:39:15
+    [min_time] => 3
+    [avg_time] => 7
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 15
+    [dialog_count] => 5
+    [start_dialog] => 2017-08-23 15:39:02
+    [last_activity] => 2017-08-23 15:39:15
+    [min_time] => 3
+    [avg_time] => 7
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 15
+    [dialog_count] => 5
+    [start_dialog] => 2017-08-23 15:39:02
+    [last_activity] => 2017-08-23 15:39:15
+    [min_time] => 3
+    [avg_time] => 7
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 15
+    [dialog_count] => 5
+    [start_dialog] => 2017-08-23 15:39:02
+    [last_activity] => 2017-08-23 15:39:15
+    [min_time] => 3
+    [avg_time] => 7
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 16
+    [dialog_count] => 6
+    [start_dialog] => 2017-08-23 15:39:36
+    [last_activity] => 2017-08-23 15:39:36
+    [min_time] => 3
+    [avg_time] => 9
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 17
+    [dialog_count] => 7
+    [start_dialog] => 2017-08-23 15:39:37
+    [last_activity] => 2017-08-23 15:39:37
+    [min_time] => 3
+    [avg_time] => 10
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 17
+    [dialog_count] => 7
+    [start_dialog] => 2017-08-23 15:39:37
+    [last_activity] => 2017-08-23 15:39:37
+    [min_time] => 3
+    [avg_time] => 10
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 18
+    [dialog_count] => 8
+    [start_dialog] => 2017-08-23 15:39:37
+    [last_activity] => 2017-08-23 15:39:37
+    [min_time] => 3
+    [avg_time] => 11
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 19
+    [dialog_count] => 9
+    [start_dialog] => 2017-08-23 15:39:37
+    [last_activity] => 2017-08-23 15:39:37
+    [min_time] => 3
+    [avg_time] => 12
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 19
+    [dialog_count] => 9
+    [start_dialog] => 2017-08-23 15:39:37
+    [last_activity] => 2017-08-23 15:39:37
+    [min_time] => 3
+    [avg_time] => 12
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 19
+    [dialog_count] => 9
+    [start_dialog] => 2017-08-23 15:39:37
+    [last_activity] => 2017-08-23 15:39:37
+    [min_time] => 3
+    [avg_time] => 12
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 22
+    [dialog_count] => 10
+    [start_dialog] => 2017-08-23 15:39:38
+    [last_activity] => 2017-08-23 15:39:38
+    [min_time] => 3
+    [avg_time] => 13
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 28
+    [dialog_count] => 10
+    [start_dialog] => 2017-08-23 15:39:38
+    [last_activity] => 2017-08-23 15:39:40
+    [min_time] => 3
+    [avg_time] => 13
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 29
+    [dialog_count] => 10
+    [start_dialog] => 2017-08-23 15:39:38
+    [last_activity] => 2017-08-23 15:39:41
+    [min_time] => 3
+    [avg_time] => 13
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 30
+    [dialog_count] => 10
+    [start_dialog] => 2017-08-23 15:39:38
+    [last_activity] => 2017-08-23 16:17:43
+    [min_time] => 3
+    [avg_time] => 13
+    [max_time] => 21
+)
+Array
+(
+    [id] => 14
+    [portal] => auspex.bitrix24.ua
+    [user_id] => 158
+    [send_count] => 31
+    [dialog_count] => 10
+    [start_dialog] => 2017-08-23 15:39:38
+    [last_activity] => 2017-08-23 16:18:19
+    [min_time] => 3
+    [avg_time] => 13
+    [max_time] => 21
+)

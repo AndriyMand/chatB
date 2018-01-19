@@ -1,0 +1,576 @@
+Array
+(
+    [event] => ONIMCOMMANDADD
+    [data] => Array
+        (
+            [COMMAND] => Array
+                (
+                    [62] => Array
+                        (
+                            [domain] => auspex.bitrix24.ua
+                            [member_id] => 59197bf728ba46d397faaf47482a508a
+                            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+                            [AUTH] => Array
+                                (
+                                    [domain] => auspex.bitrix24.ua
+                                    [member_id] => 59197bf728ba46d397faaf47482a508a
+                                    [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+                                )
+
+                            [BOT_ID] => 226
+                            [BOT_CODE] => echobot
+                            [COMMAND] => submenu
+                            [COMMAND_ID] => 62
+                            [COMMAND_PARAMS] => 0_Hello ????????????!
+                            [COMMAND_CONTEXT] => KEYBOARD
+                            [MESSAGE_ID] => 7244
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 158
+                    [TO_USER_ID] => 226
+                    [MESSAGE] => /submenu 0_Hello ????????????!
+                    [MESSAGE_TYPE] => P
+                    [AUTHOR_ID] => 158
+                    [DIALOG_ID] => 158
+                    [MESSAGE_ID] => 7244
+                    [CHAT_TYPE] => P
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 158
+                    [NAME] => Andriy Mandybur
+                    [FIRST_NAME] => Andriy
+                    [LAST_NAME] => Mandybur
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503386580
+    [auth] => Array
+        (
+            [access_token] => 8448oo08y5w4vpvj4quxy471tduo0vpy
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rg44dultosurf21xdc6vn1u0qr22t351
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+)
+Array
+(
+    [event] => ONIMCOMMANDADD
+    [data] => Array
+        (
+            [COMMAND] => Array
+                (
+                    [62] => Array
+                        (
+                            [domain] => auspex.bitrix24.ua
+                            [member_id] => 59197bf728ba46d397faaf47482a508a
+                            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+                            [AUTH] => Array
+                                (
+                                    [domain] => auspex.bitrix24.ua
+                                    [member_id] => 59197bf728ba46d397faaf47482a508a
+                                    [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+                                )
+
+                            [BOT_ID] => 226
+                            [BOT_CODE] => echobot
+                            [COMMAND] => submenu
+                            [COMMAND_ID] => 62
+                            [COMMAND_PARAMS] => 1_Multi ??????? ??????
+                            [COMMAND_CONTEXT] => KEYBOARD
+                            [MESSAGE_ID] => 7246
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 158
+                    [TO_USER_ID] => 226
+                    [MESSAGE] => /submenu 1_Multi ??????? ??????
+                    [MESSAGE_TYPE] => P
+                    [AUTHOR_ID] => 158
+                    [DIALOG_ID] => 158
+                    [MESSAGE_ID] => 7246
+                    [CHAT_TYPE] => P
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 158
+                    [NAME] => Andriy Mandybur
+                    [FIRST_NAME] => Andriy
+                    [LAST_NAME] => Mandybur
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503386583
+    [auth] => Array
+        (
+            [access_token] => x8gdyk8smtgksm9k5yla637g692h682w
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => 53tul09buc937ush23z6cp7k1n7x7iw4
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+)
+Array
+(
+    [event] => ONIMCOMMANDADD
+    [data] => Array
+        (
+            [COMMAND] => Array
+                (
+                    [62] => Array
+                        (
+                            [domain] => auspex.bitrix24.ua
+                            [member_id] => 59197bf728ba46d397faaf47482a508a
+                            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+                            [AUTH] => Array
+                                (
+                                    [domain] => auspex.bitrix24.ua
+                                    [member_id] => 59197bf728ba46d397faaf47482a508a
+                                    [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+                                )
+
+                            [BOT_ID] => 226
+                            [BOT_CODE] => echobot
+                            [COMMAND] => submenu
+                            [COMMAND_ID] => 62
+                            [COMMAND_PARAMS] => 3_??????? ?????? Sub Multi
+                            [COMMAND_CONTEXT] => KEYBOARD
+                            [MESSAGE_ID] => 7248
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 158
+                    [TO_USER_ID] => 226
+                    [MESSAGE] => /submenu 3_??????? ?????? Sub Multi
+                    [MESSAGE_TYPE] => P
+                    [AUTHOR_ID] => 158
+                    [DIALOG_ID] => 158
+                    [MESSAGE_ID] => 7248
+                    [CHAT_TYPE] => P
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 158
+                    [NAME] => Andriy Mandybur
+                    [FIRST_NAME] => Andriy
+                    [LAST_NAME] => Mandybur
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503386588
+    [auth] => Array
+        (
+            [access_token] => b9zp32wr0s6ej0fkd8vpbahvcdlhb7r6
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => 6onwuph9h7vubl6bauko1cl8h8i9f0za
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+)
+Array
+(
+    [event] => ONIMCOMMANDADD
+    [data] => Array
+        (
+            [COMMAND] => Array
+                (
+                    [66] => Array
+                        (
+                            [domain] => auspex.bitrix24.ua
+                            [member_id] => 59197bf728ba46d397faaf47482a508a
+                            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                            [AUTH] => Array
+                                (
+                                    [domain] => auspex.bitrix24.ua
+                                    [member_id] => 59197bf728ba46d397faaf47482a508a
+                                    [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                                )
+
+                            [BOT_ID] => 230
+                            [BOT_CODE] => echobot
+                            [COMMAND] => submenu
+                            [COMMAND_ID] => 66
+                            [COMMAND_PARAMS] => 0_Hello ????????????!
+                            [COMMAND_CONTEXT] => KEYBOARD
+                            [MESSAGE_ID] => 7294
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 158
+                    [TO_USER_ID] => 230
+                    [MESSAGE] => /submenu 0_Hello ????????????!
+                    [MESSAGE_TYPE] => P
+                    [AUTHOR_ID] => 158
+                    [DIALOG_ID] => 158
+                    [MESSAGE_ID] => 7294
+                    [CHAT_TYPE] => P
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 158
+                    [NAME] => Andriy Mandybur
+                    [FIRST_NAME] => Andriy
+                    [LAST_NAME] => Mandybur
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503408000
+    [auth] => Array
+        (
+            [access_token] => dqa7dz45v0tgoelrsoasxsm9zi3l2p96
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => 38e4nf9u3pxdb0f0xq5vp58nycgsclmc
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+)
+Array
+(
+    [event] => ONIMCOMMANDADD
+    [data] => Array
+        (
+            [COMMAND] => Array
+                (
+                    [66] => Array
+                        (
+                            [domain] => auspex.bitrix24.ua
+                            [member_id] => 59197bf728ba46d397faaf47482a508a
+                            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                            [AUTH] => Array
+                                (
+                                    [domain] => auspex.bitrix24.ua
+                                    [member_id] => 59197bf728ba46d397faaf47482a508a
+                                    [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                                )
+
+                            [BOT_ID] => 230
+                            [BOT_CODE] => echobot
+                            [COMMAND] => submenu
+                            [COMMAND_ID] => 66
+                            [COMMAND_PARAMS] => 1_Multi ??????? ??????
+                            [COMMAND_CONTEXT] => KEYBOARD
+                            [MESSAGE_ID] => 7296
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 158
+                    [TO_USER_ID] => 230
+                    [MESSAGE] => /submenu 1_Multi ??????? ??????
+                    [MESSAGE_TYPE] => P
+                    [AUTHOR_ID] => 158
+                    [DIALOG_ID] => 158
+                    [MESSAGE_ID] => 7296
+                    [CHAT_TYPE] => P
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 158
+                    [NAME] => Andriy Mandybur
+                    [FIRST_NAME] => Andriy
+                    [LAST_NAME] => Mandybur
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503408007
+    [auth] => Array
+        (
+            [access_token] => ycy39x73adwk853g2a9vfstf8m40521t
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => mlrhi493yq3z12z6kmg5jc523k0n4641
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+)
+Array
+(
+    [event] => ONIMCOMMANDADD
+    [data] => Array
+        (
+            [COMMAND] => Array
+                (
+                    [66] => Array
+                        (
+                            [domain] => auspex.bitrix24.ua
+                            [member_id] => 59197bf728ba46d397faaf47482a508a
+                            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                            [AUTH] => Array
+                                (
+                                    [domain] => auspex.bitrix24.ua
+                                    [member_id] => 59197bf728ba46d397faaf47482a508a
+                                    [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                                )
+
+                            [BOT_ID] => 230
+                            [BOT_CODE] => echobot
+                            [COMMAND] => submenu
+                            [COMMAND_ID] => 66
+                            [COMMAND_PARAMS] => 0_Hello ????????????!
+                            [COMMAND_CONTEXT] => KEYBOARD
+                            [MESSAGE_ID] => 7306
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 158
+                    [TO_USER_ID] => 230
+                    [MESSAGE] => /submenu 0_Hello ????????????!
+                    [MESSAGE_TYPE] => P
+                    [AUTHOR_ID] => 158
+                    [DIALOG_ID] => 158
+                    [MESSAGE_ID] => 7306
+                    [CHAT_TYPE] => P
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 158
+                    [NAME] => Andriy Mandybur
+                    [FIRST_NAME] => Andriy
+                    [LAST_NAME] => Mandybur
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503474190
+    [auth] => Array
+        (
+            [access_token] => ofjpulo2avz7a1t3g1jvm9ha6lsceipf
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => w4bkmmeexgpq2jsfc8szt54cr0ldfy3b
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+)
+Array
+(
+    [event] => ONIMCOMMANDADD
+    [data] => Array
+        (
+            [COMMAND] => Array
+                (
+                    [66] => Array
+                        (
+                            [domain] => auspex.bitrix24.ua
+                            [member_id] => 59197bf728ba46d397faaf47482a508a
+                            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                            [AUTH] => Array
+                                (
+                                    [domain] => auspex.bitrix24.ua
+                                    [member_id] => 59197bf728ba46d397faaf47482a508a
+                                    [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                                )
+
+                            [BOT_ID] => 230
+                            [BOT_CODE] => echobot
+                            [COMMAND] => submenu
+                            [COMMAND_ID] => 66
+                            [COMMAND_PARAMS] => 1_Multi ??????? ??????
+                            [COMMAND_CONTEXT] => KEYBOARD
+                            [MESSAGE_ID] => 7308
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 158
+                    [TO_USER_ID] => 230
+                    [MESSAGE] => /submenu 1_Multi ??????? ??????
+                    [MESSAGE_TYPE] => P
+                    [AUTHOR_ID] => 158
+                    [DIALOG_ID] => 158
+                    [MESSAGE_ID] => 7308
+                    [CHAT_TYPE] => P
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 158
+                    [NAME] => Andriy Mandybur
+                    [FIRST_NAME] => Andriy
+                    [LAST_NAME] => Mandybur
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503474256
+    [auth] => Array
+        (
+            [access_token] => jfpv94t33nvoe8tb2j319og762g20ifj
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => 577plpolcdnu6sovqq1a0jkly0bkbmh1
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+)
+Array
+(
+    [event] => ONIMCOMMANDADD
+    [data] => Array
+        (
+            [COMMAND] => Array
+                (
+                    [64] => Array
+                        (
+                            [domain] => auspex.bitrix24.ua
+                            [member_id] => 59197bf728ba46d397faaf47482a508a
+                            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                            [AUTH] => Array
+                                (
+                                    [domain] => auspex.bitrix24.ua
+                                    [member_id] => 59197bf728ba46d397faaf47482a508a
+                                    [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                                )
+
+                            [BOT_ID] => 230
+                            [BOT_CODE] => echobot
+                            [COMMAND] => btn_block
+                            [COMMAND_ID] => 64
+                            [COMMAND_PARAMS] => 183
+                            [COMMAND_CONTEXT] => KEYBOARD
+                            [MESSAGE_ID] => 7384
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 158
+                    [TO_USER_ID] => 230
+                    [MESSAGE] => /btn_block 183
+                    [MESSAGE_TYPE] => P
+                    [AUTHOR_ID] => 158
+                    [DIALOG_ID] => 158
+                    [MESSAGE_ID] => 7384
+                    [CHAT_TYPE] => P
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 158
+                    [NAME] => Andriy Mandybur
+                    [FIRST_NAME] => Andriy
+                    [LAST_NAME] => Mandybur
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503494101
+    [auth] => Array
+        (
+            [access_token] => cnym7q7sllvixuo5ckwu1w4gani06i4y
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => t298uze19epazqrexce36d16gf06ajnf
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+)

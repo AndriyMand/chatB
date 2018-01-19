@@ -1,0 +1,331 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="../../fileadmin/css/style.css">
+	
+</head>
+<body>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="../../fileadmin/js/tools.js"></script>
+
+	<ul class="menu cf">
+		<li>
+			<a href="../../index.phtml">Main</a>
+		</li>
+		<li>
+			<a href="">Block</a>
+			<ul class="submenu">
+				<li><a href="../block/list.phtml">List</a></li>
+				<li><a href="../block/detail.phtml" class="li_detail">Detail</a></li>
+				<li><a href="../block/detail.phtml" id="create_block">Create</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="">Tags</a>
+			<ul class="submenu">
+				<li><a href="list.phtml">List</a></li>
+				<li><a href="edit.phtml">Edit</a></li>
+			</ul>			
+		</li>
+		<li>
+			<a href="../menu/menu.phtml">Menu</a>			
+		</li>
+		<!--
+		<li>
+			<a href="">Keyboard</a>
+			<ul class="submenu">
+				<li><a href="../keyboard/list.phtml">List</a></li>
+				<li><a href="../keyboard/edit.phtml">Edit</a></li>
+			</ul>
+		</li>
+		-->
+	</ul>
+
+<?php
+	include '../../db/connection.php';
+    include '../../db/query.php';
+?>
+<div class="fit_center">
+<div id='tags_set_table'>
+<?php
+/*
+	session_start();
+
+	//var_dump($_SESSION);
+	//$host = empty($_SERVER['HTTP_ORIGIN']) ? $_SERVER['HTTP_X_FORWARDED_PROTO'] . "://" . $_SERVER['HTTP_HOST'] : $_SERVER['HTTP_ORIGIN'];
+	$host = $_SESSION['DOMAIN'];
+	$portalId = $conn->query(selectRow('portals', 'id', "host_name='" . $host . "'"))->fetch_assoc()['id']; 
+	*/
+	
+	session_start();
+	if (isset($_REQUEST['DOMAIN'])) {
+		$_SESSION['DOMAIN'] = $_REQUEST['DOMAIN'];
+	} else {
+		$_SESSION['DOMAIN'] = 'auspex.bitrix24.ua';
+	}
+
+	$domain = $_SESSION['DOMAIN'];
+	
+	if ($domain) {
+		$result = $conn->query(selectAll('tags', '*', 'portal="' . $domain . '"'));
+	}
+	
+    //$result = $conn->query(selectAll('tags_set', '*'));
+    if ($result->num_rows > 0) { ?>
+        <table border="1"> 
+			<?php
+			$default = [];
+			$botmessage  = $conn->query(selectAll('blocks', '*', 'portal="' . $domain . '"'));
+			if ($botmessage->num_rows > 0) { 
+				//$count = 0; ?>
+			<tr class="tr_tags">
+				<td colspan="3">
+					<h3 class="center colored">Include Blocks to Tags sets</h3>
+					<h5>Available tags collections</h5>
+					<div class="ck-button">
+						<?php
+							$tags = $conn->query(selectAll('tags', '*', 'portal="' . $domain . '"'));
+							if ($tags->num_rows > 0) { ?>
+								<?php while($tagset = $tags->fetch_assoc()) { ?>
+										<label>
+											<input class='tags_col' type="checkbox" name="checked_tag_sets[]" value="<?php echo $tagset['id']; ?>"><span><?php echo $tagset['id']; ?></span>
+										</label>      
+							<?php } ?>
+						<?php  } ?>    
+					</div>
+				
+
+					<div class="tr_tags">
+
+						<br><h5>Available blocks:</h5>
+						<div class="block_set">
+					<?php while($botBlocks = $botmessage->fetch_assoc()) { 
+							if (empty($botBlocks['default_type'])) { ?>
+							<p id="<?php echo $botBlocks['id']; ?>"><?php echo $botBlocks['header']; ?></p>
+						<?php 
+							}
+						} ?>
+						</div>
+					</div>
+				</td>
+			</tr>
+				
+			<?php } 
+			
+	}?>
+			<tr class="tr_tags">
+				<td colspan="3">
+				<h3 class="center colored">Create tags set</h3>
+					<p><textarea rows='3' style="width:100%;" class="tag_set" placeholder='separate tags using ","'></textarea><p>
+					<button type='button' id="create_tag_set_btn">Add tag set</button>
+				</td>
+			</tr>
+			
+	<?php if ($result->num_rows > 0) { ?>
+			
+			<tr>
+				<td colspan="3">
+					<h3 class="center colored">All info</h3>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<p>Collections</p>
+				</td>
+				<td>
+					<p>Tags</p>
+				</td>
+				<td>
+					<p>Related blocks</p>
+				</td>
+			</tr>
+            <?php while($row = $result->fetch_assoc()) { ?>
+                        <tr class="tr_tags">
+                            <td class="tags_id">
+                                <p><?php echo $row['id']; ?></p>
+                                <button type='button' id="deleteBtn" data-id="<?php echo $row['id']; ?>" data-table="tags">Delete</button>
+                            </td>
+                            <td>
+                                <p>
+									<span><button type='button' class='show_tags_group'>Add tags</button></span>
+								</p>
+                                <div class="tags_row">
+                                    <?php if (!empty($row['value'])) {
+                                        $tags = explode(",", $row['value']);
+                                        foreach ($tags as $tag) { 
+                                            if ($tag) { ?>
+                                        <p>
+                                           <?php echo $tag; ?>
+                                        </p>
+                                            <?php } }
+                                    } ?>    
+                                </div>
+								<div class="addTags_group">
+									<p><textarea rows='3' class="i_tags" style="width:100%;" placeholder='separate tags using ","'></textarea><p>
+									<button type='button' class='addTagsBtn' value="<?php echo $row['id']; ?>">Add tags</button>
+								</div>
+							</td>
+                            <td>
+								<?php
+									$related = [];
+									$botmessage = $conn->query(selectAll('blocks', '*', 'portal="' . $domain . '"'));
+									if ($botmessage->num_rows > 0) {
+										while($ress = $botmessage->fetch_assoc()) { 
+											if (!empty($ress['tags_id'])) {
+												$tags = explode(",", $ress['tags_id']);
+												if (in_array($row['id'], $tags)) {
+												   $related[$ress['id']] = $ress['header']; 
+												}
+											}
+										} 
+									} 
+									
+									if ($related) { ?>
+										<div class="blocks_hot">
+											<?php
+												foreach ($related as $id => $name) { ?>
+													<p class='<?php  echo $id; ?>'> <?php  echo $name; ?> </p>
+										<?php	}  ?>
+										</div>
+							<?php 	} else { ?>
+									<p>empty</p>	
+							<?php 	} ?>
+                            </td>
+                        </tr> 
+                <?php } ?>
+        </table>
+<?php } ?>
+</div>
+</div>
+</body>
+</html>
+
+<?php
+	if (isset($_POST['setBlockToTags']) && $_POST['setBlockToTags']) {
+		if ($_POST['checked_tag_sets']) {
+			//file_put_contents('log__setBlockToTags.txt', print_r( $_POST['blockId'], true), FILE_APPEND);
+			//file_put_contents('log__setBlockToTags.txt', print_r( $_POST['checked_tag_sets'], true), FILE_APPEND);
+			//file_put_contents('log__setBlockToTags.txt', print_r( $tags, true), FILE_APPEND);
+			
+			$block = $conn->query(selectRow('blocks', 'tags_id', "id='{$_POST['blockId']}'"))->fetch_assoc(); 
+			$tags = explode(",", $block['tags_id']);
+			$tags = array_merge($_POST['checked_tag_sets'], $tags);
+			$tags = array_unique($tags);
+			$sql = update(
+				'blocks', 
+				"tags_id='". implode(",", $tags) ."'",
+				"id={$_POST['blockId']}"
+			);
+			if ($conn->query($sql) !== true) {
+				file_put_contents('../log_query.txt', 'Tags:', FILE_APPEND);
+				file_put_contents('../log_query.txt', $conn->error, FILE_APPEND);
+			}
+		}
+		
+		$_POST['setBlockToTags'] = null;
+	} elseif (isset($_POST['setTagSet']) && $_POST['setTagSet']) {
+		
+		$tagSet = sprintf($conn->real_escape_string($_POST['tagSet']));
+		
+		$tags = explode(",", $tagSet);
+		$tags = array_map('trim',$tags);
+		$tags = array_unique($tags);
+
+		$sql  = insert('tags',[
+			'value' => implode(",", $tags),
+			'portal' => $domain
+		]);
+		if ($conn->query($sql) !== true) {
+			file_put_contents('../log_query.txt', 'Tags:', FILE_APPEND);
+			file_put_contents('../log_query.txt', $conn->error, FILE_APPEND);
+		}
+		
+	} elseif (isset($_POST['addTags']) && $_POST['addTags']) {
+		
+		$tagsVal = sprintf($conn->real_escape_string($_POST['tagsVal']));
+		
+		$tags_set     = $conn->query(selectRow('tags', '*', "id={$_POST['tagsId']}"))->fetch_assoc(); 
+		$tags_db      = explode(",", $tags_set['value']);
+		$tags_insert  = explode(",", $tagsVal);
+		$result       = array_unique(array_merge($tags_db, $tags_insert));
+		
+		$sql = update(
+			'tags', 
+			"value='". implode(",", $result) ."'",
+			"id={$_POST['tagsId']}"
+		);
+		if ($conn->query($sql) === true) {
+			?><input type='hidden' id="addTagsStatus" value='1'><?php
+		} else {
+			?><input type='hidden' id="addTagsStatus" value='0'><?php
+		}
+		$_POST['addTags'] = null;
+	} elseif (isset($_POST['blockDelete']) && $_POST['blockDelete']) {
+		$tags    = $conn->query(selectRow('blocks', 'tags_id', "id={$_POST['blockDeleteId']}"))->fetch_assoc(); 
+		$tags_id = explode(",", $tags['tags_id']);
+		$pos = array_search(trim($_POST['tagSetId']), $tags_id);
+		if ($pos !== false) {
+			unset($tags_id[$pos]);
+		}
+		$sql = update(
+				'blocks', 
+				"tags_id='". implode(",", $tags_id) ."'",
+				"id={$_POST['blockDeleteId']}"
+				);
+		if ($conn->query($sql) !== true) {
+			file_put_contents('../log_query.txt', 'Tags:', FILE_APPEND);
+			file_put_contents('../log_query.txt', $conn->error, FILE_APPEND);
+		}
+		$_POST['blockDelete'] = null;
+	} elseif (isset($_POST['deleteBtn']) && $_POST['deleteBtn']) {
+		$itemId = trim($_POST['itemId']);
+		$sql = delete($_POST['table'], "id=$itemId");
+		if ($conn->query($sql) !== true) {
+			file_put_contents('../log_query.txt', 'Tags:', FILE_APPEND);
+			file_put_contents('../log_query.txt', $conn->error, FILE_APPEND);
+		}
+
+		if ($_POST['table'] === 'tags') {
+			$botmessage = $conn->query(selectAll('blocks', '*', 'portal="' . $domain . '"'));
+			if ($botmessage->num_rows > 0) {
+				while($ress = $botmessage->fetch_assoc()) { 
+				   if (!empty($ress['tags_id'])) {
+						$tags = explode(",", $ress['tags_id']);
+						if (in_array($tagSetId, $tags)) {
+							$pos = array_search($tagSetId, $tags);
+							unset($tags[$pos]);
+							$sql = update(
+									'blocks', 
+									"tags_id='". implode(",", $tags) ."'",
+									"id={$ress['id']}"
+									);
+							if ($conn->query($sql) !== true) {
+								file_put_contents('../log_query.txt', 'Tags:', FILE_APPEND);
+								file_put_contents('../log_query.txt', $conn->error, FILE_APPEND);
+							}
+						}
+					}
+				}
+			}
+		}
+		
+	} elseif (isset($_POST['deleteTag']) && $_POST['deleteTag']) {
+		$tags_set = $conn->query(selectRow('tags', '*', "id={$_POST['tagsId']}"))->fetch_assoc(); 
+		$tags_db  = explode(",", $tags_set['value']);
+		$pos = array_search(trim($_POST['tagVal']), $tags_db);
+		unset($tags_db[$pos]);
+		
+		$sql = update(
+			'tags', 
+			"value='". implode(",", $tags_db) ."'",
+			"id={$_POST['tagsId']}"
+		);
+		if ($conn->query($sql) === true) {
+			?><input type='hidden' id="deleteTagStatus" value='1'><?php
+		} else {
+			?><input type='hidden' id="deleteTagStatus" value='0'><?php
+		}
+		$_POST['deleteTag'] = null;
+	}
+
+?>

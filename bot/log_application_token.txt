@@ -1,0 +1,2816 @@
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 226
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qbfcuz4xvv58hkpukrszwo647rh34y0x
+            [expires_in] => 3600
+            [scope] => task,bizproc,im,imbot,crm,imopenlines,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => hahr62haw2e4ija2vzzjn4ho96gh7bbg
+            [application_token] => 2b0c5d3e8d6b0c93907f96bd06ba9bef
+        )
+
+    [COMMAND_BTNBLOCK] => 60
+    [COMMAND_SUBMENU] => 62
+)
+Array
+(
+    [BOT_ID] => 98
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => qzmiwwdezaivv9k4wbr53oskaxbwa3nf
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => px78xhv11oyl2kfjecl1ack22hs64l41
+            [application_token] => af42e756700ca8d6177a66250fca60d6
+        )
+
+    [COMMAND_BTNBLOCK] => 202
+    [COMMAND_SUBMENU] => 204
+)
+Array
+(
+    [BOT_ID] => 100
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => xu658vjw4oc760g1hzp0f8bcuf3bez65
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => q1w01xula1bw5pcf3z25jo5xhucbih80
+            [application_token] => c4b43badcbeecb156788e25882a559dd
+        )
+
+    [COMMAND_BTNBLOCK] => 206
+    [COMMAND_SUBMENU] => 208
+)
+Array
+(
+    [BOT_ID] => 102
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => 921ko0mltjl4qd8lt5zdxzx02kdm76kp
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 4xeoc6f5ixc9j81ih3gbxll6z4wfixuu
+            [application_token] => 3871ddd6e531825f85469dce85534194
+        )
+
+    [COMMAND_BTNBLOCK] => 210
+    [COMMAND_SUBMENU] => 212
+)
+Array
+(
+    [BOT_ID] => 102
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => 921ko0mltjl4qd8lt5zdxzx02kdm76kp
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 4xeoc6f5ixc9j81ih3gbxll6z4wfixuu
+            [application_token] => 3871ddd6e531825f85469dce85534194
+        )
+
+    [COMMAND_BTNBLOCK] => 210
+    [COMMAND_SUBMENU] => 212
+)
+Array
+(
+    [BOT_ID] => 102
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => 921ko0mltjl4qd8lt5zdxzx02kdm76kp
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 4xeoc6f5ixc9j81ih3gbxll6z4wfixuu
+            [application_token] => 3871ddd6e531825f85469dce85534194
+        )
+
+    [COMMAND_BTNBLOCK] => 210
+    [COMMAND_SUBMENU] => 212
+)
+Array
+(
+    [BOT_ID] => 104
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => 5wu8ac8r7944f4drqr34o729ohej7dp3
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => zsk1talpj44fdsv4ahy3u36ha31qzhph
+            [application_token] => 70e176fcf57490e3b26e224919a14a8a
+        )
+
+    [COMMAND_BTNBLOCK] => 214
+    [COMMAND_SUBMENU] => 216
+)
+Array
+(
+    [BOT_ID] => 104
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => 5wu8ac8r7944f4drqr34o729ohej7dp3
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => zsk1talpj44fdsv4ahy3u36ha31qzhph
+            [application_token] => 70e176fcf57490e3b26e224919a14a8a
+        )
+
+    [COMMAND_BTNBLOCK] => 214
+    [COMMAND_SUBMENU] => 216
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 106
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => basgl63ewd52f39revz7jz4v97wdey8y
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => kclwuh5yfbuq1lcac8bjz6echmj2lsli
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+    [COMMAND_BTNBLOCK] => 218
+    [COMMAND_SUBMENU] => 220
+)
+Array
+(
+    [BOT_ID] => 108
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => fkv5ni5lme90v4s45v05xx0uciz19n5j
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 00xq6x86zeagpfo7aq86v73308d3tmx7
+            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+        )
+
+    [COMMAND_BTNBLOCK] => 222
+    [COMMAND_SUBMENU] => 224
+)
+Array
+(
+    [BOT_ID] => 108
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => fkv5ni5lme90v4s45v05xx0uciz19n5j
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 00xq6x86zeagpfo7aq86v73308d3tmx7
+            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+        )
+
+    [COMMAND_BTNBLOCK] => 222
+    [COMMAND_SUBMENU] => 224
+)
+Array
+(
+    [BOT_ID] => 108
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => fkv5ni5lme90v4s45v05xx0uciz19n5j
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 00xq6x86zeagpfo7aq86v73308d3tmx7
+            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+        )
+
+    [COMMAND_BTNBLOCK] => 222
+    [COMMAND_SUBMENU] => 224
+)
+Array
+(
+    [BOT_ID] => 108
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => fkv5ni5lme90v4s45v05xx0uciz19n5j
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 00xq6x86zeagpfo7aq86v73308d3tmx7
+            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+        )
+
+    [COMMAND_BTNBLOCK] => 222
+    [COMMAND_SUBMENU] => 224
+)
+Array
+(
+    [BOT_ID] => 108
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => fkv5ni5lme90v4s45v05xx0uciz19n5j
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 00xq6x86zeagpfo7aq86v73308d3tmx7
+            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+        )
+
+    [COMMAND_BTNBLOCK] => 222
+    [COMMAND_SUBMENU] => 224
+)
+Array
+(
+    [BOT_ID] => 108
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => fkv5ni5lme90v4s45v05xx0uciz19n5j
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 00xq6x86zeagpfo7aq86v73308d3tmx7
+            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+        )
+
+    [COMMAND_BTNBLOCK] => 222
+    [COMMAND_SUBMENU] => 224
+)
+Array
+(
+    [BOT_ID] => 108
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => fkv5ni5lme90v4s45v05xx0uciz19n5j
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 00xq6x86zeagpfo7aq86v73308d3tmx7
+            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+        )
+
+    [COMMAND_BTNBLOCK] => 222
+    [COMMAND_SUBMENU] => 224
+)
+Array
+(
+    [BOT_ID] => 108
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => fkv5ni5lme90v4s45v05xx0uciz19n5j
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 00xq6x86zeagpfo7aq86v73308d3tmx7
+            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+        )
+
+    [COMMAND_BTNBLOCK] => 222
+    [COMMAND_SUBMENU] => 224
+)
+Array
+(
+    [BOT_ID] => 108
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => fkv5ni5lme90v4s45v05xx0uciz19n5j
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 00xq6x86zeagpfo7aq86v73308d3tmx7
+            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+        )
+
+    [COMMAND_BTNBLOCK] => 222
+    [COMMAND_SUBMENU] => 224
+)
+Array
+(
+    [BOT_ID] => 108
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => fkv5ni5lme90v4s45v05xx0uciz19n5j
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => 00xq6x86zeagpfo7aq86v73308d3tmx7
+            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+        )
+
+    [COMMAND_BTNBLOCK] => 222
+    [COMMAND_SUBMENU] => 224
+)
+Array
+(
+    [BOT_ID] => 110
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => kf3qat6pr91dubpcuvun50xx20o2sveb
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => qalvxyybd0nxj1xjql53lknku9iuv7bu
+            [application_token] => 02e419ea0feb05daa4aa6907889cd04e
+        )
+
+    [COMMAND_BTNBLOCK] => 226
+    [COMMAND_SUBMENU] => 228
+)
+Array
+(
+    [BOT_ID] => 110
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => kf3qat6pr91dubpcuvun50xx20o2sveb
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => qalvxyybd0nxj1xjql53lknku9iuv7bu
+            [application_token] => 02e419ea0feb05daa4aa6907889cd04e
+        )
+
+    [COMMAND_BTNBLOCK] => 226
+    [COMMAND_SUBMENU] => 228
+)
+Array
+(
+    [BOT_ID] => 110
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => kf3qat6pr91dubpcuvun50xx20o2sveb
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => qalvxyybd0nxj1xjql53lknku9iuv7bu
+            [application_token] => 02e419ea0feb05daa4aa6907889cd04e
+        )
+
+    [COMMAND_BTNBLOCK] => 226
+    [COMMAND_SUBMENU] => 228
+)
+Array
+(
+    [BOT_ID] => 110
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => kf3qat6pr91dubpcuvun50xx20o2sveb
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => qalvxyybd0nxj1xjql53lknku9iuv7bu
+            [application_token] => 02e419ea0feb05daa4aa6907889cd04e
+        )
+
+    [COMMAND_BTNBLOCK] => 226
+    [COMMAND_SUBMENU] => 228
+)
+Array
+(
+    [BOT_ID] => 110
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => kf3qat6pr91dubpcuvun50xx20o2sveb
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => qalvxyybd0nxj1xjql53lknku9iuv7bu
+            [application_token] => 02e419ea0feb05daa4aa6907889cd04e
+        )
+
+    [COMMAND_BTNBLOCK] => 226
+    [COMMAND_SUBMENU] => 228
+)
+Array
+(
+    [BOT_ID] => 112
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => dwofa3o4zz2nfxn7eyckgcytdiiz7lea
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => urtpwoe3nvyulsccz3c2sz52msuejnya
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+    [COMMAND_BTNBLOCK] => 230
+    [COMMAND_SUBMENU] => 232
+)
+Array
+(
+    [BOT_ID] => 112
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => dwofa3o4zz2nfxn7eyckgcytdiiz7lea
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => urtpwoe3nvyulsccz3c2sz52msuejnya
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+    [COMMAND_BTNBLOCK] => 230
+    [COMMAND_SUBMENU] => 232
+)
+Array
+(
+    [BOT_ID] => 112
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => dwofa3o4zz2nfxn7eyckgcytdiiz7lea
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => urtpwoe3nvyulsccz3c2sz52msuejnya
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+    [COMMAND_BTNBLOCK] => 230
+    [COMMAND_SUBMENU] => 232
+)
+Array
+(
+    [BOT_ID] => 112
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => dwofa3o4zz2nfxn7eyckgcytdiiz7lea
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => urtpwoe3nvyulsccz3c2sz52msuejnya
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+    [COMMAND_BTNBLOCK] => 230
+    [COMMAND_SUBMENU] => 232
+)
+Array
+(
+    [BOT_ID] => 112
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => dwofa3o4zz2nfxn7eyckgcytdiiz7lea
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => urtpwoe3nvyulsccz3c2sz52msuejnya
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+    [COMMAND_BTNBLOCK] => 230
+    [COMMAND_SUBMENU] => 232
+)
+Array
+(
+    [BOT_ID] => 112
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => dwofa3o4zz2nfxn7eyckgcytdiiz7lea
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => urtpwoe3nvyulsccz3c2sz52msuejnya
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+    [COMMAND_BTNBLOCK] => 230
+    [COMMAND_SUBMENU] => 232
+)
+Array
+(
+    [BOT_ID] => 112
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => dwofa3o4zz2nfxn7eyckgcytdiiz7lea
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => urtpwoe3nvyulsccz3c2sz52msuejnya
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+    [COMMAND_BTNBLOCK] => 230
+    [COMMAND_SUBMENU] => 232
+)
+Array
+(
+    [BOT_ID] => 112
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => dwofa3o4zz2nfxn7eyckgcytdiiz7lea
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => urtpwoe3nvyulsccz3c2sz52msuejnya
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+    [COMMAND_BTNBLOCK] => 230
+    [COMMAND_SUBMENU] => 232
+)
+Array
+(
+    [BOT_ID] => 112
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => dwofa3o4zz2nfxn7eyckgcytdiiz7lea
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => urtpwoe3nvyulsccz3c2sz52msuejnya
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+    [COMMAND_BTNBLOCK] => 230
+    [COMMAND_SUBMENU] => 232
+)
+Array
+(
+    [BOT_ID] => 112
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => dwofa3o4zz2nfxn7eyckgcytdiiz7lea
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => urtpwoe3nvyulsccz3c2sz52msuejnya
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+    [COMMAND_BTNBLOCK] => 230
+    [COMMAND_SUBMENU] => 232
+)
+Array
+(
+    [BOT_ID] => 112
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => dwofa3o4zz2nfxn7eyckgcytdiiz7lea
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [refresh_token] => urtpwoe3nvyulsccz3c2sz52msuejnya
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+    [COMMAND_BTNBLOCK] => 230
+    [COMMAND_SUBMENU] => 232
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)
+Array
+(
+    [BOT_ID] => 230
+    [LANGUAGE_ID] => ua
+    [AUTH] => Array
+        (
+            [access_token] => eem9hnqzhgoj4gxuz9ckyvazg1otzdak
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [refresh_token] => rjlcone8tnug08cpx18bcke8cyhj6czv
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+    [COMMAND_BTNBLOCK] => 64
+    [COMMAND_SUBMENU] => 66
+)

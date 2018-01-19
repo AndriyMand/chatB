@@ -1,0 +1,585 @@
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [98] => Array
+                        (
+                            [domain] => b24-n58fe2236706cc.bitrix24.ua
+                            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                            [application_token] => af42e756700ca8d6177a66250fca60d6
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-n58fe2236706cc.bitrix24.ua
+                                    [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                                    [application_token] => af42e756700ca8d6177a66250fca60d6
+                                )
+
+                            [BOT_ID] => 98
+                            [BOT_CODE] => echobot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => P
+                    [MESSAGE_TYPE] => P
+                    [BOT_ID] => 98
+                    [USER_ID] => 1
+                    [TO_USER_ID] => 98
+                    [FROM_USER_ID] => 1
+                    [DIALOG_ID] => 1
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1
+                    [NAME] => mandybur.andriy@gmail.com
+                    [FIRST_NAME] => 
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503398826
+    [auth] => Array
+        (
+            [access_token] => 814fj255t30iox46e9h0lshw4ommuwaq
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [application_token] => af42e756700ca8d6177a66250fca60d6
+        )
+
+)
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [100] => Array
+                        (
+                            [domain] => b24-n58fe2236706cc.bitrix24.ua
+                            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                            [application_token] => c4b43badcbeecb156788e25882a559dd
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-n58fe2236706cc.bitrix24.ua
+                                    [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                                    [application_token] => c4b43badcbeecb156788e25882a559dd
+                                )
+
+                            [BOT_ID] => 100
+                            [BOT_CODE] => echobot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => P
+                    [MESSAGE_TYPE] => P
+                    [BOT_ID] => 100
+                    [USER_ID] => 1
+                    [TO_USER_ID] => 100
+                    [FROM_USER_ID] => 1
+                    [DIALOG_ID] => 1
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1
+                    [NAME] => mandybur.andriy@gmail.com
+                    [FIRST_NAME] => 
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503399854
+    [auth] => Array
+        (
+            [access_token] => 39011lfc6qlynu8gzyptmgnu6za6evh4
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [application_token] => c4b43badcbeecb156788e25882a559dd
+        )
+
+)
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [102] => Array
+                        (
+                            [domain] => b24-n58fe2236706cc.bitrix24.ua
+                            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                            [application_token] => 3871ddd6e531825f85469dce85534194
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-n58fe2236706cc.bitrix24.ua
+                                    [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                                    [application_token] => 3871ddd6e531825f85469dce85534194
+                                )
+
+                            [BOT_ID] => 102
+                            [BOT_CODE] => echobot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => P
+                    [MESSAGE_TYPE] => P
+                    [BOT_ID] => 102
+                    [USER_ID] => 1
+                    [TO_USER_ID] => 102
+                    [FROM_USER_ID] => 1
+                    [DIALOG_ID] => 1
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1
+                    [NAME] => mandybur.andriy@gmail.com
+                    [FIRST_NAME] => 
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503400103
+    [auth] => Array
+        (
+            [access_token] => nikt0o1jtm52zxyh2xz9u11e1dbhz2n8
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [application_token] => 3871ddd6e531825f85469dce85534194
+        )
+
+)
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [104] => Array
+                        (
+                            [domain] => b24-n58fe2236706cc.bitrix24.ua
+                            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                            [application_token] => 70e176fcf57490e3b26e224919a14a8a
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-n58fe2236706cc.bitrix24.ua
+                                    [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                                    [application_token] => 70e176fcf57490e3b26e224919a14a8a
+                                )
+
+                            [BOT_ID] => 104
+                            [BOT_CODE] => echobot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => P
+                    [MESSAGE_TYPE] => P
+                    [BOT_ID] => 104
+                    [USER_ID] => 1
+                    [TO_USER_ID] => 104
+                    [FROM_USER_ID] => 1
+                    [DIALOG_ID] => 1
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1
+                    [NAME] => mandybur.andriy@gmail.com
+                    [FIRST_NAME] => 
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503401300
+    [auth] => Array
+        (
+            [access_token] => 18acsr20uqvd4938txwduz8pz2srym9x
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [application_token] => 70e176fcf57490e3b26e224919a14a8a
+        )
+
+)
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [106] => Array
+                        (
+                            [domain] => b24-n58fe2236706cc.bitrix24.ua
+                            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-n58fe2236706cc.bitrix24.ua
+                                    [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                                    [application_token] => 1f9fe46e978703fee863afd79c3e0311
+                                )
+
+                            [BOT_ID] => 106
+                            [BOT_CODE] => echobot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => P
+                    [MESSAGE_TYPE] => P
+                    [BOT_ID] => 106
+                    [USER_ID] => 1
+                    [TO_USER_ID] => 106
+                    [FROM_USER_ID] => 1
+                    [DIALOG_ID] => 1
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1
+                    [NAME] => mandybur.andriy@gmail.com
+                    [FIRST_NAME] => 
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503401412
+    [auth] => Array
+        (
+            [access_token] => ods19s7m0nld2qqse4wexnhy7faihb15
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [application_token] => 1f9fe46e978703fee863afd79c3e0311
+        )
+
+)
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [108] => Array
+                        (
+                            [domain] => b24-n58fe2236706cc.bitrix24.ua
+                            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-n58fe2236706cc.bitrix24.ua
+                                    [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                                    [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+                                )
+
+                            [BOT_ID] => 108
+                            [BOT_CODE] => echobot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => P
+                    [MESSAGE_TYPE] => P
+                    [BOT_ID] => 108
+                    [USER_ID] => 1
+                    [TO_USER_ID] => 108
+                    [FROM_USER_ID] => 1
+                    [DIALOG_ID] => 1
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1
+                    [NAME] => mandybur.andriy@gmail.com
+                    [FIRST_NAME] => 
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503403288
+    [auth] => Array
+        (
+            [access_token] => r3bgl44g1tdvnpfdx61svma33h1ymag7
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [application_token] => d6667a6096fbfc6735a53e2c7e885c87
+        )
+
+)
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [110] => Array
+                        (
+                            [domain] => b24-n58fe2236706cc.bitrix24.ua
+                            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                            [application_token] => 02e419ea0feb05daa4aa6907889cd04e
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-n58fe2236706cc.bitrix24.ua
+                                    [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                                    [application_token] => 02e419ea0feb05daa4aa6907889cd04e
+                                )
+
+                            [BOT_ID] => 110
+                            [BOT_CODE] => echobot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => P
+                    [MESSAGE_TYPE] => P
+                    [BOT_ID] => 110
+                    [USER_ID] => 1
+                    [TO_USER_ID] => 110
+                    [FROM_USER_ID] => 1
+                    [DIALOG_ID] => 1
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1
+                    [NAME] => mandybur.andriy@gmail.com
+                    [FIRST_NAME] => 
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503403509
+    [auth] => Array
+        (
+            [access_token] => 037usxgfi3ijer7fj4ecvhjyj7j37ptb
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [application_token] => 02e419ea0feb05daa4aa6907889cd04e
+        )
+
+)
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [112] => Array
+                        (
+                            [domain] => b24-n58fe2236706cc.bitrix24.ua
+                            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                            [application_token] => e9075329c88e9234495766178d766a78
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-n58fe2236706cc.bitrix24.ua
+                                    [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+                                    [application_token] => e9075329c88e9234495766178d766a78
+                                )
+
+                            [BOT_ID] => 112
+                            [BOT_CODE] => echobot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => P
+                    [MESSAGE_TYPE] => P
+                    [BOT_ID] => 112
+                    [USER_ID] => 1
+                    [TO_USER_ID] => 112
+                    [FROM_USER_ID] => 1
+                    [DIALOG_ID] => 1
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1
+                    [NAME] => mandybur.andriy@gmail.com
+                    [FIRST_NAME] => 
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503404389
+    [auth] => Array
+        (
+            [access_token] => bzf8d221up3jbvuoivulvodyx4w2ffqb
+            [expires_in] => 3600
+            [scope] => department,task,tasks_extended,crm,bizproc,log,sonet_group,imbot,placement,disk,user,entity,telephony,call,imopenlines,mailservice,calendar,lists,im
+            [domain] => b24-n58fe2236706cc.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-n58fe2236706cc.bitrix24.ua/rest/
+            [member_id] => 8463a0f240b18f2c77fb28112a2cc70a
+            [user_id] => 1
+            [application_token] => e9075329c88e9234495766178d766a78
+        )
+
+)
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [230] => Array
+                        (
+                            [domain] => auspex.bitrix24.ua
+                            [member_id] => 59197bf728ba46d397faaf47482a508a
+                            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                            [AUTH] => Array
+                                (
+                                    [domain] => auspex.bitrix24.ua
+                                    [member_id] => 59197bf728ba46d397faaf47482a508a
+                                    [application_token] => 46d1916c49d8673b533fd1c8a158866b
+                                )
+
+                            [BOT_ID] => 230
+                            [BOT_CODE] => echobot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => P
+                    [MESSAGE_TYPE] => P
+                    [BOT_ID] => 230
+                    [USER_ID] => 158
+                    [TO_USER_ID] => 230
+                    [FROM_USER_ID] => 158
+                    [DIALOG_ID] => 158
+                    [LANGUAGE] => ua
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 158
+                    [NAME] => Andriy Mandybur
+                    [FIRST_NAME] => Andriy
+                    [LAST_NAME] => Mandybur
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                )
+
+        )
+
+    [ts] => 1503407867
+    [auth] => Array
+        (
+            [access_token] => x1w0x8snogd99ac1zs32im6loa6s105r
+            [expires_in] => 3600
+            [scope] => im,imbot,imopenlines,disk,user,telephony,call,entity,lists
+            [domain] => auspex.bitrix24.ua
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://auspex.bitrix24.ua/rest/
+            [member_id] => 59197bf728ba46d397faaf47482a508a
+            [user_id] => 158
+            [application_token] => 46d1916c49d8673b533fd1c8a158866b
+        )
+
+)

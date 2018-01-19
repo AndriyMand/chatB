@@ -1,0 +1,780 @@
+1503401101 - 1503400942 = 159
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 826
+
+
+1503401503 - 1503401485 = 18
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 18
+
+
+1503401673 - 1503401584 = 89
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 89
+
+
+1503401721 - 1503401673 = 48
+min_time = 89
+avg_time = 
+max_time = 89
+activity = 137
+
+
+1503401726 - 1503401721 = 5
+min_time = 89
+avg_time = 
+max_time = 89
+activity = 142
+
+
+1503401727 - 1503401726 = 1
+min_time = 89
+avg_time = 
+max_time = 89
+activity = 143
+
+
+1503401728 - 1503401727 = 1
+min_time = 89
+avg_time = 
+max_time = 89
+activity = 144
+
+
+1503401734 - 1503401728 = 6
+min_time = 89
+avg_time = 
+max_time = 89
+activity = 150
+
+
+1503401741 - 1503401734 = 7
+min_time = 89
+avg_time = 
+max_time = 89
+activity = 157
+
+
+1503401927 - 1503401741 = 186
+min_time = 89
+avg_time = 
+max_time = 89
+activity = 343
+
+
+1503401958 - 1503401927 = 31
+min_time = 89
+avg_time = 
+max_time = 343
+activity = 374
+
+
+1503401985 - 1503401958 = 27
+min_time = 89
+avg_time = 
+max_time = 343
+activity = 401
+
+
+1503402027 - 1503401985 = 42
+min_time = 89
+avg_time = 
+max_time = 343
+activity = 443
+
+
+1503402071 - 1503402027 = 44
+min_time = 89
+avg_time = 
+max_time = 343
+activity = 487
+
+
+1503402119 - 1503402071 = 48
+min_time = 89
+avg_time = 
+max_time = 343
+activity = 535
+
+
+1503402170 - 1503402119 = 51
+min_time = 89
+avg_time = 
+max_time = 343
+activity = 535
+
+
+1503402196 - 1503402170 = 26
+min_time = 89
+avg_time = 
+max_time = 343
+activity = 586
+
+
+1503402442 - 1503402196 = 246
+min_time = 89
+avg_time = 
+max_time = 343
+activity = 612
+
+
+1503402463 - 1503402442 = 21
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402464 - 1503402463 = 1
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402464 - 1503402464 = 0
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402465 - 1503402464 = 1
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402465 - 1503402465 = 0
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402476 - 1503402465 = 11
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402492 - 1503402476 = 16
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402494 - 1503402492 = 2
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402495 - 1503402494 = 1
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402497 - 1503402495 = 2
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402499 - 1503402497 = 2
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402592 - 1503402499 = 93
+min_time = 89
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402595 - 1503402592 = 3
+min_time = 0
+avg_time = 
+max_time = 612
+activity = 93
+
+
+1503402600 - 1503402595 = 5
+min_time = 0
+avg_time = 
+max_time = 612
+activity = 96
+
+
+1503402687 - 1503402600 = 87
+min_time = 0
+avg_time = 
+max_time = 612
+activity = 101
+
+
+1503402693 - 1503402687 = 6
+min_time = 0
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503402769 - 1503402693 = 76
+min_time = 0
+avg_time = 
+max_time = 612
+activity = 6
+
+
+1503403331 - 1503402769 = 562
+min_time = 25
+avg_time = 
+max_time = 612
+activity = 0
+
+
+1503403333 - 1503402769 = 564
+min_time = 0
+avg_time = 
+max_time = 612
+activity = -562
+
+
+1503403464 - 1503403459 = 5
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 0
+
+
+1503403473 - 1503403459 = 14
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 0
+
+
+1503403497 - 1503403459 = 38
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 0
+
+
+1503403498 - 1503403459 = 39
+min_time = 0
+avg_time = 
+max_time = 0
+activity = -38
+
+
+1503403499 - 1503403459 = 40
+min_time = -38
+avg_time = 
+max_time = 0
+activity = -39
+
+
+1503403499 - 1503403459 = 40
+min_time = -39
+avg_time = 
+max_time = 0
+activity = -40
+
+
+1503403499 - 1503403459 = 40
+min_time = -40
+avg_time = 
+max_time = 0
+activity = -40
+
+
+1503403499 - 1503403459 = 40
+min_time = -40
+avg_time = 
+max_time = 0
+activity = -40
+
+
+1503403541 - 1503403459 = 82
+min_time = -40
+avg_time = 
+max_time = 0
+activity = -40
+
+
+1503403689 - 1503403683 = 6
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 0
+
+
+1503403701 - 1503403683 = 18
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 0
+
+
+1503403717 - 1503403683 = 34
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 0
+
+
+1503403736 - 1503403683 = 53
+min_time = 0
+avg_time = 
+max_time = 0
+activity = -34
+
+
+last_activity = 
+start_dialog = 
+no_activity = 1503404665
+1503404665 -  = 1503404665
+min_time = 
+avg_time = 
+max_time = 
+activity = 3
+
+
+last_activity = 1503404662
+start_dialog = 1503404662
+no_activity = 16
+1503404678 - 1503404662 = 16
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 3
+
+
+last_activity = 1503404678
+start_dialog = 1503404662
+no_activity = 4
+1503404682 - 1503404678 = 4
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 19
+
+
+last_activity = 1503404682
+start_dialog = 1503404662
+no_activity = 42
+1503404724 - 1503404682 = 42
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 23
+
+
+last_activity = 1503404724
+start_dialog = 1503404724
+no_activity = 20
+1503404744 - 1503404724 = 20
+min_time = 23
+avg_time = 
+max_time = 23
+activity = 3
+
+
+last_activity = 1503404744
+start_dialog = 1503404724
+no_activity = 7
+1503404751 - 1503404744 = 7
+min_time = 23
+avg_time = 
+max_time = 23
+activity = 23
+
+
+last_activity = 1503404751
+start_dialog = 1503404724
+no_activity = 8
+1503404759 - 1503404751 = 8
+min_time = 23
+avg_time = 
+max_time = 23
+activity = 30
+
+
+last_activity = 1503404759
+start_dialog = 1503404724
+no_activity = 10
+1503404769 - 1503404759 = 10
+min_time = 23
+avg_time = 
+max_time = 23
+activity = 38
+
+
+last_activity = 1503404769
+start_dialog = 1503404724
+no_activity = 40
+1503404809 - 1503404769 = 40
+min_time = 23
+avg_time = 
+max_time = 23
+activity = 48
+
+
+last_activity = 1503404809
+start_dialog = 1503404809
+no_activity = 8
+1503404817 - 1503404809 = 8
+min_time = 23
+avg_time = 
+max_time = 48
+activity = 3
+
+
+last_activity = 1503404817
+start_dialog = 1503404809
+no_activity = 80
+1503404897 - 1503404817 = 80
+min_time = 23
+avg_time = 
+max_time = 48
+activity = 11
+
+
+last_activity = 
+start_dialog = 
+no_activity = 1503408060
+1503408060 -  = 1503408060
+min_time = 
+avg_time = 
+max_time = 
+activity = 3
+
+
+last_activity = 1503408058
+start_dialog = 1503408058
+no_activity = 52
+1503408110 - 1503408058 = 52
+min_time = 99999999
+avg_time = 
+max_time = 0
+activity = 3
+
+
+last_activity = 1503408110
+start_dialog = 1503408110
+no_activity = 4
+1503408114 - 1503408110 = 4
+min_time = 3
+avg_time = 
+max_time = 3
+activity = 3
+
+
+last_activity = 1503408114
+start_dialog = 1503408110
+no_activity = 7
+1503408121 - 1503408114 = 7
+min_time = 3
+avg_time = 
+max_time = 3
+activity = 7
+
+
+last_activity = 1503408121
+start_dialog = 1503408110
+no_activity = 5
+1503408126 - 1503408121 = 5
+min_time = 3
+avg_time = 
+max_time = 3
+activity = 14
+
+
+last_activity = 1503408121
+start_dialog = 1503408110
+no_activity = 6
+1503408127 - 1503408121 = 6
+min_time = 3
+avg_time = 
+max_time = 3
+activity = 14
+
+
+last_activity = 1503408121
+start_dialog = 1503408110
+no_activity = 6
+1503408127 - 1503408121 = 6
+min_time = 3
+avg_time = 
+max_time = 3
+activity = 14
+
+
+last_activity = 1503408126
+start_dialog = 1503408110
+no_activity = 2
+1503408128 - 1503408126 = 2
+min_time = 3
+avg_time = 
+max_time = 3
+activity = 19
+
+
+last_activity = 1503408121
+start_dialog = 1503408110
+no_activity = 7
+1503408128 - 1503408121 = 7
+min_time = 3
+avg_time = 
+max_time = 3
+activity = 14
+
+
+last_activity = 1503408127
+start_dialog = 1503408110
+no_activity = 1
+1503408128 - 1503408127 = 1
+min_time = 3
+avg_time = 
+max_time = 3
+activity = 20
+
+
+last_activity = 1503408128
+start_dialog = 1503408110
+no_activity = 55
+1503408183 - 1503408128 = 55
+min_time = 3
+avg_time = 
+max_time = 3
+activity = 21
+
+
+last_activity = 1503408183
+start_dialog = 1503408183
+no_activity = 66173
+1503474356 - 1503408183 = 66173
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 5
+
+
+last_activity = 1503474356
+start_dialog = 1503474356
+no_activity = 17586
+1503491942 - 1503474356 = 17586
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 5
+
+
+last_activity = 1503491942
+start_dialog = 1503491942
+no_activity = 8
+1503491950 - 1503491942 = 8
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 5
+
+
+last_activity = 1503491950
+start_dialog = 1503491942
+no_activity = 5
+1503491955 - 1503491950 = 5
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 13
+
+
+last_activity = 1503491955
+start_dialog = 1503491942
+no_activity = 21
+1503491976 - 1503491955 = 21
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 18
+
+
+last_activity = 1503491955
+start_dialog = 1503491942
+no_activity = 22
+1503491977 - 1503491955 = 22
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 18
+
+
+last_activity = 1503491955
+start_dialog = 1503491942
+no_activity = 22
+1503491977 - 1503491955 = 22
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 18
+
+
+last_activity = 1503491955
+start_dialog = 1503491942
+no_activity = 22
+1503491977 - 1503491955 = 22
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 18
+
+
+last_activity = 1503491955
+start_dialog = 1503491942
+no_activity = 23
+1503491978 - 1503491955 = 23
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 18
+
+
+last_activity = 1503491976
+start_dialog = 1503491976
+no_activity = 2
+1503491978 - 1503491976 = 2
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 5
+
+
+last_activity = 1503491977
+start_dialog = 1503491977
+no_activity = 1
+1503491978 - 1503491977 = 1
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 5
+
+
+last_activity = 1503491977
+start_dialog = 1503491977
+no_activity = 1
+1503491978 - 1503491977 = 1
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 5
+
+
+last_activity = 1503491977
+start_dialog = 1503491977
+no_activity = 2
+1503491979 - 1503491977 = 2
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 5
+
+
+last_activity = 1503491977
+start_dialog = 1503491977
+no_activity = 2
+1503491979 - 1503491977 = 2
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 5
+
+
+last_activity = 1503491977
+start_dialog = 1503491977
+no_activity = 2
+1503491979 - 1503491977 = 2
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 5
+
+
+last_activity = 1503491977
+start_dialog = 1503491977
+no_activity = 2
+1503491979 - 1503491977 = 2
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 5
+
+
+last_activity = 1503491978
+start_dialog = 1503491978
+no_activity = 2
+1503491980 - 1503491978 = 2
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 5
+
+
+last_activity = 1503491980
+start_dialog = 1503491978
+no_activity = 1
+1503491981 - 1503491980 = 1
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 7
+
+
+last_activity = 1503491981
+start_dialog = 1503491978
+no_activity = 2282
+1503494263 - 1503491981 = 2282
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 8
+
+
+last_activity = 1503494263
+start_dialog = 1503491978
+no_activity = 36
+1503494299 - 1503494263 = 36
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 2290
+
+
+last_activity = 1503494299
+start_dialog = 1503491978
+no_activity = 36
+1503494335 - 1503494299 = 36
+min_time = 3
+avg_time = 
+max_time = 21
+activity = 2326
+
+

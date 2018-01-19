@@ -1,0 +1,231 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="../../fileadmin/css/style.css">
+</head>
+<body>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="../../fileadmin/js/tools.js"></script>
+
+	<ul class="menu cf">
+		<li>
+			<a href="../../index.phtml">Main</a>
+		</li>
+		<li>
+			<a href="">Block</a>
+			<ul class="submenu">
+				<li><a href="../block/list.phtml">List</a></li>
+				<li><a href="../block/detail.phtml" class="li_detail">Detail</a></li>
+				<li><a href="../block/detail.phtml" id="create_block">Create</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="">Tags</a>
+			<ul class="submenu">
+				<li><a href="../tags/list.phtml">List</a></li>
+				<li><a href="../tags/edit.phtml">Edit</a></li>
+			</ul>			
+		</li>
+		<li>
+			<a href="">Keyboard</a>
+			<ul class="submenu">
+				<li><a href="list.phtml">List</a></li>
+				<li><a href="edit.phtml">Edit</a></li>
+			</ul>
+		</li>
+	</ul>
+
+<?php
+	include '../../db/connection.php';
+    include '../../db/query.php';
+?>
+<div class="fit_center">
+<div id='keys_set_table'>
+<?php
+    $result = $conn->query(selectAll('keyboard', '*'));
+    if ($result->num_rows > 0) { ?>
+        <table border="1"> 
+			
+			
+			
+			
+			<?php
+			$default = [];
+			$botmessage  = $conn->query(selectAll('botmessage', '*'));
+			if ($botmessage->num_rows > 0) { ?>
+			
+			<tr class="tr_tags">
+				<td colspan="4">
+					<h3 class="center colored">Include Block to Keyboard sets</h3>
+					<h5>Available keyboard</h5>
+					<div class="ck-button">
+						<?php
+							$keyboard = $conn->query(selectAll('keyboard', '*'));
+							if ($keyboard->num_rows > 0) { ?>
+								<?php while($row = $keyboard->fetch_assoc()) { ?>
+										<label>
+											<input class='keys_col' type="checkbox" name="checked_keyboard[]" value="<?php echo $row['id']; ?>"><span>/<?php echo $row['name']; ?></span>
+										</label>      
+							<?php } ?>
+						<?php  } ?>    
+                        </div>
+				
+
+					<div class="tr_tags">
+
+						<br><h5>Available blocks:</h5>
+						<div class="block_set">
+					<?php while($botBlocks = $botmessage->fetch_assoc()) { 
+							if (empty($botBlocks['type'])) { ?>
+							<p id="<?php echo $botBlocks['id']; ?>"><?php echo $botBlocks['header']; ?></p>
+						<?php 
+							}
+						} ?>
+						</div>
+					</div>
+				</td>
+			</tr>
+			<?php } ?>
+	
+			<tr class="tr_tags">
+				<td colspan="4">
+					<h3 class="center colored">Fill this area to add keyboard</h3>
+					<p><textarea rows='3' style="width:100%;" class="key_input" placeholder='input keyboard'></textarea><p>
+					<button type='button' id="create_key_btn">Add keyboard</button>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="4">
+					<h3 class="center colored">All info</h3>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+				<td>
+					<p>Keyboard</p>
+				</td>
+				<td>
+					<p>Teaser</p>
+				</td>
+				<td>
+					<p>Related block</p>
+				</td>
+			</tr>
+            <?php while($row = $result->fetch_assoc()) { ?>
+                        <tr class="tr_tags">
+                            <td class="tags_id">
+                                <p><?php echo $row['id']; ?></p>
+                                <button type='button' id="deleteBtn" data-id="<?php echo $row['id']; ?>" data-table="keyboard">Delete</button>
+                            </td>
+                            <td>
+								<div class="tags_in_block">
+										<p>/ <?php  echo $row['name']; ?></p>
+								</div>
+							</td>
+							<td>
+								<div>
+									<p><input type='text' style="width:100%;" maxlength="50" value="<?php echo $row['description']; ?>" id="i_descr" placeholder='Input description'></p>
+									<button type='button' class='saveKeyDescr' value="<?php echo $row['id']; ?>">Save</button>
+								</div>
+							</td>
+                            <td>
+								<?php
+									if ($row['block']) { 
+										$related = $conn->query(selectRow('botmessage', '*', "id={$row['block']}"))->fetch_assoc();
+									?>
+										<div class="tags_in_block">
+												<p class='<?php  echo $related['id']; ?>'> <?php  echo $related['header']; ?> </p>
+										</div>
+							<?php 	} else { ?>
+									<p>empty</p>	
+							<?php 	} ?>
+                            </td>
+                        </tr> 
+                <?php } ?>
+        </table>
+<?php } ?>
+</div>
+</div>
+</body>
+</html>
+
+<?php 
+//-------------------------------------------------------------------
+
+if (isset($_POST['setKeySet']) && $_POST['setKeySet']) {
+
+    $keyName = trim($_POST['keySet']);
+	$isDuplicate = $conn->query(selectRow('keyboard', '*', "name='$keyName'"));
+	
+
+	if($isDuplicate->num_rows == 0) {
+		$sql = insert('keyboard',[
+			'name' => trim($keyName),
+		]);
+		if ($conn->query($sql) !== true) {
+			echo $conn->error . "<br>";
+			echo $sql . "<br>";
+		}
+	}  
+} elseif (isset($_POST['changeDescr']) && $_POST['changeDescr']) {
+	$sql = update(
+			'keyboard', 
+			"description='". $_POST['descrVal'] ."'",
+			"id={$_POST['keyId']}"
+			);
+	if ($conn->query($sql) !== true) {
+		echo $conn->error . "<br>";
+		echo $sql . "<br>";
+	}
+} elseif (isset($_POST['deleteBtn']) && $_POST['deleteBtn']) {
+	$itemId = trim($_POST['itemId']);
+	$sql = delete($_POST['table'], "id=$itemId");
+	if ($conn->query($sql) !== true) {
+		echo 'Delete is failed!<br>';
+		echo $conn->error . "<br>";
+	}
+
+	if ($_POST['table'] === 'tags_set') {
+		$botmessage = $conn->query(selectAll('botmessage', '*'));
+		if ($botmessage->num_rows > 0) {
+			while($ress = $botmessage->fetch_assoc()) { 
+			   if (!empty($ress['tags'])) {
+					$tags = explode(",", $ress['tags']);
+					if (in_array($tagSetId, $tags)) {
+						$pos = array_search($tagSetId, $tags);
+						unset($tags[$pos]);
+						$sql = update(
+								'botmessage', 
+								"tags='". implode(",", $tags) ."'",
+								"id={$ress['id']}"
+								);
+						if ($conn->query($sql) !== true) {
+							echo "Update block '{$ress['id']}' is failed!<br>";
+							echo $conn->error . "<br>";
+							echo $sql . "<br>";
+						}
+					}
+				}
+			}
+		}
+	}
+    
+} elseif (isset($_POST['setBlockToTags']) && $_POST['setBlockToTags']) {
+	
+	if ($_POST['checked_keys']) {
+		$sql = update(
+            'keyboard', 
+            "block='" . $_POST['blockId'] . "'",
+			"id IN (" . implode(",", $_POST['checked_keys']) . ")"
+		);
+		if ($conn->query($sql) !== true) {
+			echo $conn->error . "<br>";
+			echo $sql . "<br>";
+		}
+	}
+    
+    $_POST['setBlockToTags'] = null;
+}
+
+?>

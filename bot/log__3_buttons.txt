@@ -1,0 +1,147 @@
+Array
+(
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [TEXT] => Block
+                    [COMMAND] => btn_block
+                    [COMMAND_PARAMS] => 160
+                    [BG_COLOR] => 
+                    [TEXT_COLOR] => 
+                    [DISPLAY] => LINE
+                )
+
+        )
+
+)
+Array
+(
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [TEXT] => Block
+                    [COMMAND] => btn_block
+                    [COMMAND_PARAMS] => 160
+                    [BG_COLOR] => 
+                    [TEXT_COLOR] => 
+                    [DISPLAY] => LINE
+                )
+
+            [1] => Array
+                (
+                    [TEXT] => Menu
+                    [COMMAND] => submenu
+                    [COMMAND_PARAMS] => 0_Hello ????????????!
+                    [DISPLAY] => LINE
+                )
+
+        )
+
+)
+Array
+(
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [TEXT] => Menu
+                    [COMMAND] => submenu
+                    [COMMAND_PARAMS] => 0_Hello ????????????!
+                    [DISPLAY] => LINE
+                )
+
+        )
+
+)
+Array
+(
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [TEXT] => Menu
+                    [COMMAND] => submenu
+                    [COMMAND_PARAMS] => 0_Hello ????????????!
+                    [DISPLAY] => LINE
+                )
+
+        )
+
+)
+Array
+(
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [TEXT] => Menu
+                    [COMMAND] => submenu
+                    [COMMAND_PARAMS] => 0_Hello ????????????!
+                    [DISPLAY] => LINE
+                )
+
+        )
+
+)
+Array
+(
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [TEXT] => Menu
+                    [COMMAND] => submenu
+                    [COMMAND_PARAMS] => 0_Hello ????????????!
+                    [DISPLAY] => LINE
+                )
+
+        )
+
+)
+Array
+(
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [TEXT] => Menu
+                    [COMMAND] => submenu
+                    [COMMAND_PARAMS] => 0_Hello ????????????!
+                    [DISPLAY] => LINE
+                )
+
+        )
+
+)
+Array
+(
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [TEXT] => Menu
+                    [COMMAND] => submenu
+                    [COMMAND_PARAMS] => 0_Hello ????????????!
+                    [DISPLAY] => LINE
+                )
+
+        )
+
+)
+Array
+(
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [TEXT] => Menu
+                    [COMMAND] => submenu
+                    [COMMAND_PARAMS] => 0_Hello ????????????!
+                    [DISPLAY] => LINE
+                )
+
+        )
+
+)

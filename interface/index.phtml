@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chat-bot editor</title>
+<link rel="stylesheet" type="text/css" href="fileadmin/css/style.css">
+<link href="fileadmin/css/bot.css" rel='stylesheet' type='text/css' />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Profile Widget,Login Forms,Sign up Forms,Registration Forms,News latter Forms,Elements"./>
+<script type="application/x-javascript"> 
+	addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } 
+</script>
+
+
+<script type="js/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+<!--webfonts-->
+<link href='//fonts.googleapis.com/css?family=Armata' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,600,700,200italic,300italic,400italic,600italic|Lora:400,700,400italic,700italic|Raleway:400,500,300,600,700,200,100' rel='stylesheet' type='text/css'>
+<!--//webfonts-->
+</head>
+<body>
+
+<ul class="menu cf">
+	<li>
+		<a href="index.phtml">Main</a>
+	</li>
+	<li>
+		<a href="">Block</a>
+		<ul class="submenu">
+			<li><a href="view/block/list.phtml">List</a></li>
+			<li><a href="view/block/detail.phtml">Detail</a></li>
+			<li><a href="view/block/detail.phtml" id="create_block">Create</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="">Tags</a>
+		<ul class="submenu">
+			<li><a href="view/tags/list.phtml">List</a></li>
+			<li><a href="view/tags/edit.phtml">Edit</a></li>
+		</ul>			
+	</li>
+	<li>
+		<a href="view/menu/menu.phtml">Menu</a>			
+	</li>
+</ul>
+
+<?php
+
+include 'db/connection.php';
+include 'db/query.php';
+/*
+session_start();
+if (isset($_REQUEST['DOMAIN'])) {
+	$_SESSION['DOMAIN'] = $_REQUEST['DOMAIN'];
+}
+
+$host = $_SESSION['DOMAIN'];
+$portalId = $conn->query(selectRow('portals', 'id', "host_name='" . $host . "'"))->fetch_assoc()['id']; 
+*/
+
+session_start();
+if (isset($_REQUEST['DOMAIN'])) {
+	$_SESSION['DOMAIN'] = $_REQUEST['DOMAIN'];
+	$_SESSION['AUTH']   = $_REQUEST['AUTH_ID'];
+} else {
+	$_SESSION['DOMAIN'] = 'auspex.bitrix24.ua';
+}
+
+file_put_contents('_REQUEST.txt', print_r( $_REQUEST, true) . "\n", FILE_APPEND);
+
+$domain = $_SESSION['DOMAIN'];
+
+if ($domain) {
+	$bot = $conn->query(selectRow('bots', '*', 'portal="' . $domain . '"'))->fetch_assoc(); 
+} 
+
+if (isset($_POST['bot'])) {
+	$image = isset($_FILES['avatar']['name']) ? $_FILES['avatar']['name'] : '';
+
+	if (!$_FILES['avatar']['error']) {
+		if (is_uploaded_file($_FILES['avatar']['tmp_name'])) {
+			if (move_uploaded_file($_FILES['avatar']['tmp_name'], "../bot/".$image)) {
+
+			} 
+		}
+	}
+	
+	$sql = update(
+		'bots', 
+		  "name='". sprintf($conn->real_escape_string($_POST['bot']['name'])) ."', "
+		. "color='". sprintf($conn->real_escape_string($_POST['bot']['color'])) ."', "
+		. "email='" . sprintf($conn->real_escape_string($_POST['bot']['email'])) . "', "
+		. "b_day='" . sprintf($conn->real_escape_string($_POST['bot']['b_day'])) . "',"
+		. "image='" . sprintf($conn->real_escape_string($image)) . "',"
+		. "www='" . sprintf($conn->real_escape_string($_POST['bot']['www'])) . "'",
+		'portal=' . $domain
+	);
+	if ($conn->query($sql) !== true) {
+		file_put_contents('log_query.txt', 'Bots:', FILE_APPEND);
+		file_put_contents('log_query.txt', $conn->error, FILE_APPEND);
+	}
+}
+
+?>
+
+<form method="post" name="form" enctype="multipart/form-data" id="bot_form">
+
+	<div class="main">
+			<h1>Personal information about chat-bot</h1>		
+		 <div class="content">
+			 <div class="profile">
+				 <div class="profile-top">
+					 <div class="pic-sec">
+						 <div class="pic">
+							 <img src="<?php 
+
+								if (!empty($bot['image'])) {
+									echo "../bot/" . $bot['image'];
+								}
+
+							 ?>" alt=""/>
+						 </div>
+						 <div class="pic_info">
+							 <h2><?php echo $bot['name']; ?></h2>
+							 <h3><?php echo $bot['email']; ?></h3>
+						 </div>
+						 <div class="clear"></div>
+					 </div>
+
+				 </div>
+				 <div>
+					 <ul>
+							<li>
+								<label>Name: </label>
+								<input type="text" name="bot[name]" id="i_name" placeholder="<?php echo $bot['name']; ?>" value="<?php echo $bot['name']; ?>" required>
+							</li>
+							
+							<li>
+								<label>Диалоги: <?php echo $bot['dialogs_count']; ?></label>
+							</li>
+							
+							<li>
+								<label>Входящие: <?php echo $bot['incoming_messages_count']; ?></label>
+							</li>
+							
+							<li>
+								<label>Исходящие: <?php echo $bot['outgoing_messages_count']; ?></label>
+							</li>
+							<!--
+							<li>
+								<label>Color: </label>
+								<input type="text" name="bot[color]" placeholder="<?php echo $bot['color']; ?>" value="<?php echo $bot['color']; ?>">
+							</li>
+							
+							<li>
+								<label>Email: </label>
+								<input type="text" name="bot[email]" placeholder="<?php echo $bot['email']; ?>" value="<?php echo $bot['email']; ?>">
+							</li>
+							
+							<li>
+								<label>B-day: </label>
+								<input type="text" name="bot[b_day]" placeholder="<?php echo $bot['b_day']; ?>" value="<?php echo $bot['b_day']; ?>">
+							</li>
+							
+							<li>
+								<label>WWW: </label>
+								<input type="text" name="bot[www]" placeholder="<?php echo $bot['www']; ?>" value="<?php echo $bot['www']; ?>">
+							</li>
+							-->
+							<li>
+								<label>Avatar: </label>
+								<input type='file' name='avatar' accept='image/*'>
+							</li>
+							
+							<li>
+								<input type='submit' id='save_bot' value="Save changes">
+							</li>
+					 </ul>
+				 </div>
+			 </div>
+		 </div>
+
+	</div>	
+
+</form>
+
+</body>
+</html>

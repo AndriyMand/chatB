@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]><html class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html class="ie8"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9"> <![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Тестовий 24 / Настройки AI</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=1365">
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+
+    <link rel="stylesheet" href="style/css/main.css">
+    <link rel="stylesheet" href="style/css/vendor.css">
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="wrapper">
+    <header class="header"></header>
+    <aside class="left__menu"></aside>
+    <section class="settings">
+        <nav class="top__nav">
+            <div class="company__info">
+                <a href="#" class="phone">+38 032 242 00 12</a>
+                <a href="#" class="logo">
+                    <img src="style/img/logo.svg" alt="logo">
+                </a>
+            </div>
+        </nav>
+        <div class="settings__header">
+            <div class="user__info">
+                <div class="user__info-photo">
+                    <img src="style/img/user-pic.png" alt="pic">
+                </div>
+                <input class="user__info-name" maxlength="40" type="text" placeholder="Имя Фамилия">
+            </div>
+            <div class="settings__menu">
+                <ul>
+                    <li><a href="blocks.html">Блоки</a></li>
+                    <li><a class="active" href="AI.php">Настройки AI</a></li>
+                    <li><a href="menu.html">Меню</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="settings__content">
+            <div class="rule">
+                <div class="rule__left">
+                    <div class="rule__left-title">Возможные слова и фразы пользователя <i class="fa fa-times" aria-hidden="true"></i></div>
+                    <div class="base__group">
+                        <a href="#" class="btn base__group-block">Слово <i class="fa fa-times" aria-hidden="true"></i></a>
+                        <a href="#" class="btn base__group-block">Еще одна фраза <i class="fa fa-times" aria-hidden="true"></i></a>
+                        <a href="#" class="btn base__group-add-block"><i class="fa fa-plus" aria-hidden="true"></i>Добавить</a>
+                    </div>
+                </div>
+                <div class="rule__right">
+                    <div id="tabs-1">
+                        <div class="rule__right-title">Ответить с помощью:</div>
+                        <ul class="tabs">
+                            <li class="tab active"><a href="#b-1" class="active">Блок</a></li>
+                            <li class="tab"><a href="#t-1">Текст</a></li>
+                        </ul>
+                        <div class="tabs-content">
+                            <div id="b-1" class="rule__right-field">
+                                <span class="icon icon-search"></span>
+                                <div class="base__group">
+                                    <a href="#" class="btn base__group-block">Блок название<i class="fa fa-times" aria-hidden="true"></i></a>
+                                    <a href="#" class="btn base__group-block">Блок название<i class="fa fa-times" aria-hidden="true"></i></a>
+                                    <a href="#" class="btn base__group-block">Блок название<i class="fa fa-times" aria-hidden="true"></i></a>
+                                    <a href="#" class="btn base__group-block">Блок название<i class="fa fa-times" aria-hidden="true"></i></a>
+                                    <a href="#" class="btn base__group-block">Блок название<i class="fa fa-times" aria-hidden="true"></i></a>
+                                    <a href="#" class="btn base__group-block">Блок название<i class="fa fa-times" aria-hidden="true"></i></a>
+                                    <select name="add-block" class="add-block" data-placeholder="+ Выбрать блок">
+                                        <option value="0"></option>
+                                        <option value="1">Название блок</option>
+                                        <option value="2">Следующий блок</option>
+                                        <option value="3">Следующий блок</option>
+                                        <option value="4">Следующий блок</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div id="t-1" class="rule__right-field">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos eligendi error fuga laboriosam, neque possimus quasi tenetur!</div>
+                        </div>
+                    </div>
+                    <input id="my_check" type="checkbox" />
+                    <label for="my_check">В случайном порядке</label>
+                </div>
+            </div>
+            <div class="rule">
+                <div class="rule__left">
+                    <div class="rule__left-title">Возможные слова и фразы пользователя <i class="fa fa-times" aria-hidden="true"></i></div>
+                    <div class="base__group">
+                        <a href="#" class="btn base__group-block">Еще одна фраза <i class="fa fa-times" aria-hidden="true"></i></a>
+                        <a href="#" class="btn base__group-block">Еще одна фраза <i class="fa fa-times" aria-hidden="true"></i></a>
+                        <a href="#" class="btn base__group-block">Еще одна фраза <i class="fa fa-times" aria-hidden="true"></i></a>
+                        <a href="#" class="btn base__group-block">Еще одна фраза <i class="fa fa-times" aria-hidden="true"></i></a>
+                        <a href="#" class="btn base__group-add-block"><i class="fa fa-plus" aria-hidden="true"></i>Добавить</a>
+                    </div>
+                </div>
+                <div class="rule__right">
+                    <div id="tabs-2">
+                        <div class="rule__right-title">Ответить с помощью:</div>
+                        <ul class="tabs">
+                            <li class="tab"><a href="#b-2">Блок</a></li>
+                            <li class="tab active"><a href="#t-2" class="active">Текст</a></li>
+                        </ul>
+                        <div class="tabs-content">
+                            <div id="b-2" class="rule__right-field">
+                                <span class="icon icon-search"></span>
+                                <div class="base__group">
+                                    <a href="#" class="btn base__group-block">Блок название<i class="fa fa-times" aria-hidden="true"></i></a>
+                                    <a href="#" class="btn base__group-block">Блок название<i class="fa fa-times" aria-hidden="true"></i></a>
+                                    <a href="#" class="btn base__group-block">Блок <i class="fa fa-times" aria-hidden="true"></i></a>
+                                    <a href="#" class="btn base__group-block">Блок название<i class="fa fa-times" aria-hidden="true"></i></a>
+                                    <a href="#" class="btn base__group-block">Блок название<i class="fa fa-times" aria-hidden="true"></i></a>
+                                    <a href="#" class="btn base__group-block">Блок название<i class="fa fa-times" aria-hidden="true"></i></a>
+
+                                    <select name="add-block" class="add-block" data-placeholder="+ Выбрать блок">
+                                        <option value="0"></option>
+                                        <option value="1">Название блок</option>
+                                        <option value="2">Следующий блок</option>
+                                        <option value="3">Следующий блок</option>
+                                        <option value="4">Следующий блок</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div id="t-2" class="rule__right-field">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos eligendi error fuga laboriosam, neque possimus quasi tenetur!</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="rule">
+                <div class="rule__left">
+                    <a href="#" class="btn base__group-add"><i class="fa fa-plus" aria-hidden="true"></i>Добавить правило</a>
+                </div>
+            </div>
+            <div class="btn__wrap btn__wrap-mod">
+                <button type="button" class="btn btn-save">Сохранить</button>
+                <button type="button" class="btn btn-cansel">Отменить</button>
+            </div>
+        </div>
+    </section>
+
+</div>
+<script defer src="style/js/vendor.js"></script>
+<script defer src="style/js/script.js"></script>
+</body>
+</html>

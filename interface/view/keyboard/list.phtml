@@ -1,0 +1,83 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="../../fileadmin/css/style.css">
+</head>
+<body>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="../../fileadmin/js/tools.js"></script>
+
+	<ul class="menu cf">
+		<li>
+			<a href="../../index.phtml">Main</a>
+		</li>
+		<li>
+			<a href="">Block</a>
+			<ul class="submenu">
+				<li><a href="../block/list.phtml">List</a></li>
+				<li><a href="../block/detail.phtml" class="li_detail">Detail</a></li>
+				<li><a href="../block/detail.phtml" id="create_block">Create</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="">Tags</a>
+			<ul class="submenu">
+				<li><a href="../tags/list.phtml">List</a></li>
+				<li><a href="../tags/edit.phtml">Edit</a></li>
+			</ul>			
+		</li>
+		<li>
+			<a href="">Keyboard</a>
+			<ul class="submenu">
+				<li><a href="list.phtml">List</a></li>
+				<li><a href="edit.phtml">Edit</a></li>
+			</ul>
+		</li>
+	</ul>
+
+<?php
+	include '../../db/connection.php';
+    include '../../db/query.php';
+?>
+<div class="fit_center">
+<div id='keys_set_table'>
+<?php
+    $result = $conn->query(selectAll('keyboard', '*'));
+    if ($result->num_rows > 0) { ?>
+        <table> 
+			<tr>
+				<td>
+				</td>
+				<td class="center">
+					<p>Keyboard</p>
+				</td>
+				<td class="center">
+					<p>Related block</p>
+				</td>
+			</tr>
+            <?php while($row = $result->fetch_assoc()) {
+					if ($row['block']) { 
+						$related = $conn->query(selectRow('botmessage', '*', "id={$row['block']}"))->fetch_assoc(); ?>
+                        <tr class="tr_tags">
+                            <td class="tags_id">
+								<div class="arrow-right"></div>
+                            </td>
+                            <td>
+								<div class="tags_in_block">
+										<p>/ <?php  echo $row['name']; ?></p>
+								</div>
+							</td>
+                            <td>
+								<div class="tags_in_block">
+										<p class='<?php  echo $related['id']; ?>'> <?php  echo $related['header']; ?> </p>
+								</div>
+                            </td>
+                        </tr> 
+			<?php	}
+			}?>
+        </table>
+<?php } ?>
+</div>
+</div>
+</body>
+</html>

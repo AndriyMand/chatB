@@ -1,0 +1,888 @@
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 162
+    [portal] => auspex.bitrix24.ua
+    [header] => test
+    [text] => test
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 57,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 154
+    [portal] => auspex.bitrix24.ua
+    [header] => I`m here :)
+    [text] => Can I help you?
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTJOINCHAT
+    [group] => 
+)
+Array
+(
+    [id] => 155
+    [portal] => auspex.bitrix24.ua
+    [header] => Hmm..Цікаво
+    [text] => Very interesting message
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 
+    [default_type] => ONIMBOTMESSAGEADD
+    [group] => 
+)
+Array
+(
+    [id] => 160
+    [portal] => auspex.bitrix24.ua
+    [header] => Hello! Привіт!
+    [text] => How are you? Як справи?
+    [tags_id] => 18,
+    [attach_id] => 
+    [button_id] => 56,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 161
+    [portal] => auspex.bitrix24.ua
+    [header] => Do not ask such questions anymore
+    [text] => 😐😐😐😐😐
+    [tags_id] => 19,
+    [attach_id] => 78,79,
+    [button_id] => 54,55,
+    [default_type] => 
+    [group] => 
+)
+Array
+(
+    [id] => 162
+    [portal] => auspex.bitrix24.ua
+    [header] => test
+    [text] => test
+    [tags_id] => 
+    [attach_id] => 
+    [button_id] => 57,
+    [default_type] => 
+    [group] => 
+)
